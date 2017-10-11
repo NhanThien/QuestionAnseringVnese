@@ -1,0 +1,7926 @@
+<doc>
+	<s>
+		<w pos="N">Đầu gối</w>
+		<w pos="V">đau</w>
+		<w pos="R">không</w>
+		<w pos="V">kèm</w>
+		<w pos="A">sưng</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Đầu</w>
+		<w pos="A">đau nhói</w>
+		<w pos="E">sau</w>
+		<w pos="N">va đập</w>
+		<w pos=",">,</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">CT</w>
+		<w pos="V">có</w>
+		<w pos="V">phát hiện</w>
+		<w pos="V">tụ</w>
+		<w pos="N">máu</w>
+	</s>
+	<s>
+		<w pos="V">Hạch</w>
+		<w pos="E">ở</w>
+		<w pos="N">giữa</w>
+		<w pos="N">vai</w>
+		<w pos="CC">và</w>
+		<w pos="N">cổ</w>
+		<w pos="V">kèm</w>
+		<w pos="V">đau</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="A">chướng</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="A">đầy</w>
+		<w pos="N">hơi</w>
+		<w pos="N">khi</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="Np">Amidan</w>
+		<w pos="V">xuất hiện</w>
+		<w pos="L">những</w>
+		<w pos="N">lỗ</w>
+		<w pos="A">nhỏ</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="Np">AloBacsi</w>
+		<w pos="V">cho</w>
+		<w pos="N">con</w>
+		<w pos="V">hỏi</w>
+		<w pos="X">làm sao</w>
+		<w pos="E">để</w>
+		<w pos="N">lượng</w>
+		<w pos="V">ráy</w>
+		<w pos="N">tai</w>
+		<w pos="R">chỉ</w>
+		<w pos="R">vừa</w>
+		<w pos="A">đủ</w>
+	</s>
+	<s>
+		<w pos="N">Thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="N">mụn</w>
+		<w pos="V">gây</w>
+		<w pos="A">trễ</w>
+		<w pos="V">kinh</w>
+	</s>
+	<s>
+		<w pos="V">Rửa</w>
+		<w pos="N">nước</w>
+		<w pos="A">nóng</w>
+		<w pos="C">nhưng</w>
+		<w pos="N">màu</w>
+		<w pos="A">xanh</w>
+		<w pos="A">methylen</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">ngừa</w>
+		<w pos="N">thai</w>
+		<w pos="A">gần</w>
+		<w pos="M">2</w>
+		<w pos="E">vì</w>
+		<w pos="R">vẫn</w>
+		<w pos="R">chưa</w>
+		<w pos="V">có</w>
+		<w pos="N">kinh nguyệt</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">bắp đùi</w>
+		<w pos=",">,</w>
+		<w pos="A">bầm</w>
+		<w pos="A">tím</w>
+		<w pos="E">do</w>
+		<w pos="N">tập</w>
+		<w pos="V">xoạc</w>
+		<w pos="N">chân</w>
+	</s>
+	<s>
+		<w pos="E">Nhân</w>
+		<w pos="N">giáp</w>
+		<w pos="A">nhỏ</w>
+		<w pos="V">thùy</w>
+		<w pos="N">trái</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="V">thêm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="Np">U</w>
+		<w pos="V">tụy</w>
+		<w pos="N">giai đoạn</w>
+		<w pos="M">1</w>
+		<w pos="C">nếu</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">tỷ lệ</w>
+		<w pos="N">thành công</w>
+		<w pos="V">có</w>
+		<w pos="A">cao</w>
+	</s>
+	<s>
+		<w pos="M">“</w>
+		<w pos="N">Cô</w>
+		<w pos="N">bé</w>
+		<w pos="N">”</w>
+		<w pos="V">đau</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">giữ</w>
+		<w pos="N">lửa</w>
+		<w pos="N">khi</w>
+		<w pos="V">“</w>
+		<w pos="V">yêu</w>
+		<w pos="M">”</w>
+	</s>
+	<s>
+		<w pos="N">Ngoài Tây</w>
+		<w pos="P">y</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">rò</w>
+		<w pos="N">hậu môn</w>
+		<w pos="V">còn</w>
+		<w pos="V">cách</w>
+		<w pos="V">chữa</w>
+		<w pos="P">nào</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="N">Tóc</w>
+		<w pos="N">bé</w>
+		<w pos="V">rụng</w>
+		<w pos="N">mảng</w>
+		<w pos="A">lớn</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Ngón tay</w>
+		<w pos="A">trẻ</w>
+		<w pos="V">dính</w>
+		<w pos="E">vào</w>
+		<w pos="N">nhau</w>
+		<w pos=",">,</w>
+		<w pos="V">mong</w>
+		<w pos="Np">BS</w>
+		<w pos="E">cho</w>
+		<w pos="N">lời</w>
+		<w pos="V">khuyên</w>
+	</s>
+	<s>
+		<w pos="N">Nguy cơ</w>
+		<w pos="N">tiểu đường</w>
+		<w pos="N">thai</w>
+		<w pos="N">kỳ</w>
+		<w pos="C">nên</w>
+		<w pos="V">ăn uống</w>
+		<w pos="P">thế nào</w>
+		<w pos="E">cho</w>
+		<w pos="A">hợp lý</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm gì</w>
+		<w pos="E">để</w>
+		<w pos="V">cải thiện</w>
+		<w pos="N">tình trạng</w>
+		<w pos="A">táo bón</w>
+		<w pos="E">ở</w>
+		<w pos="N">trẻ</w>
+	</s>
+	<s>
+		<w pos="V">Ngứa</w>
+		<w pos="E">ngoài</w>
+		<w pos="N">da</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="N">nước</w>
+		<w pos=",">,</w>
+		<w pos="N">bé</w>
+		<w pos="V">bị</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="N">cục</w>
+		<w pos="A">nhỏ</w>
+		<w pos="A">gần</w>
+		<w pos="V">lưỡi gà</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">họng</w>
+		<w pos="V">cấp</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">bé</w>
+		<w pos="V">đi</w>
+		<w pos="V">chơi</w>
+		<w pos="V">về</w>
+		<w pos="R">lại</w>
+		<w pos="N">biếng</w>
+		<w pos="V">ăn</w>
+	</s>
+	<s>
+		<w pos="Np">BS</w>
+		<w pos="Np">Trịnh Ngọc Bình</w>
+		<w pos="V">hướng dẫn</w>
+		<w pos="V">cách</w>
+		<w pos="E">cho</w>
+		<w pos="N">bé</w>
+		<w pos="V">ăn</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="Np">Anti</w>
+		<w pos="Np">HCV</w>
+		<w pos="A">dương tính</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="P">sao</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="A">ngon miệng</w>
+		<w pos="C">nhưng</w>
+		<w pos="V">bị</w>
+		<w pos="V">sút cân</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="N">Nhân viên</w>
+		<w pos="N">văn phòng</w>
+		<w pos="C">hay</w>
+		<w pos="V">bị</w>
+		<w pos="V">phù</w>
+		<w pos=",">,</w>
+		<w pos="A">lạnh</w>
+		<w pos="N">tay chân</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="P">gì</w>
+		<w pos="V">gây</w>
+		<w pos="V">nhức</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">chán nản</w>
+		<w pos=",">,</w>
+		<w pos="V">xì</w>
+		<w pos="N">mũi</w>
+		<w pos="V">ra</w>
+		<w pos="N">máu</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">quặn</w>
+		<w pos="R">từng</w>
+		<w pos="N">cơn</w>
+		<w pos=",">,</w>
+		<w pos="V">đi ngoài</w>
+		<w pos="N">phân</w>
+		<w pos="N">lỏng</w>
+		<w pos=",">,</w>
+		<w pos="V">sôi</w>
+		<w pos="N">bụng</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">ăn</w>
+	</s>
+	<s>
+		<w pos="N">Đái tháo đường</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+		<w pos="V">phải</w>
+		<w pos="V">uống</w>
+		<w pos="N">metformin</w>
+		<w pos="E">vào</w>
+		<w pos="N">buổi</w>
+		<w pos="N">chiều</w>
+	</s>
+	<s>
+		<w pos="Np">Nhờ Alo</w>
+		<w pos="Np">Bacsi</w>
+		<w pos="V">hướng dẫn</w>
+		<w pos="V">giúp</w>
+		<w pos="N">em</w>
+		<w pos="V">cách</w>
+		<w pos="V">hết</w>
+		<w pos="N">cảm giác</w>
+		<w pos="V">vướng</w>
+		<w pos="N">họng</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="N">công thức</w>
+		<w pos="N">máu</w>
+		<w pos="E">của</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="N">Đái tháo đường</w>
+		<w pos=",">,</w>
+		<w pos="N">huyết áp cao</w>
+		<w pos=",">,</w>
+		<w pos="V">ăn uống</w>
+		<w pos="CC">và</w>
+		<w pos="V">điều trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="A">Loét</w>
+		<w pos="N">dạ dày</w>
+		<w pos="E">do</w>
+		<w pos="Np">Hp</w>
+		<w pos=",">,</w>
+		<w pos="V">học</w>
+		<w pos="V">bơi</w>
+		<w pos="V">có</w>
+		<w pos="V">lây nhiễm</w>
+		<w pos="E">cho</w>
+		<w pos="L">mọi</w>
+		<w pos="N">người</w>
+	</s>
+	<s>
+		<w pos="V">Giựt</w>
+		<w pos="N">chân</w>
+		<w pos="V">gây</w>
+		<w pos="V">mất ngủ</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">hội chứng</w>
+		<w pos="A">chân không</w>
+		<w pos="A">yên</w>
+	</s>
+	<s>
+		<w pos="E">Với</w>
+		<w pos="N">kết quả</w>
+		<w pos="V">siêu âm</w>
+		<w pos="A">tuyến giáp</w>
+		<w pos="E">dưới</w>
+		<w pos="P">đây</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">phẫu thuật</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">nang</w>
+		<w pos="N">tuyến</w>
+		<w pos="Np">Bartholin</w>
+	</s>
+	<s>
+		<w pos="V">Cần</w>
+		<w pos="N">kiêng</w>
+		<w pos="N">trứng</w>
+		<w pos=",">,</w>
+		<w pos="N">rau muống</w>
+		<w pos="E">để</w>
+		<w pos="N">da</w>
+		<w pos="N">đầu</w>
+		<w pos="R">liền</w>
+		<w pos="A">nhanh</w>
+		<w pos="R">hơn</w>
+	</s>
+	<s>
+		<w pos="A">Sưng</w>
+		<w pos="N">đỏ</w>
+		<w pos="V">kèm</w>
+		<w pos="V">đau</w>
+		<w pos="E">ở</w>
+		<w pos="N">gốc</w>
+		<w pos="N">dương vật</w>
+	</s>
+	<s>
+		<w pos="V">Quá</w>
+		<w pos="M">72h</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chống</w>
+		<w pos="V">phơi</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+		<w pos="R">không</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="N">Cận thị</w>
+		<w pos="V">đi ngoài</w>
+		<w pos="N">nắng</w>
+		<w pos="R">không</w>
+		<w pos="V">mở mắt</w>
+		<w pos="R">được</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="N">hen suyễn</w>
+		<w pos="V">là</w>
+		<w pos="P">thế nào</w>
+		<w pos=",">,</w>
+		<w pos="V">phòng tránh</w>
+		<w pos="X">ra sao</w>
+	</s>
+	<s>
+		<w pos="V">Có</w>
+		<w pos="V">phải</w>
+		<w pos="N">cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">sùi</w>
+		<w pos="N">mào gà</w>
+		<w pos="R">không</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="V">nhờn</w>
+		<w pos="E">do</w>
+		<w pos="V">rối loạn</w>
+		<w pos="N">hormone</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Súc</w>
+		<w pos="N">miệng</w>
+		<w pos="N">sau</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos="R">không</w>
+		<w pos="A">an toàn</w>
+		<w pos=",">,</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">phơi</w>
+		<w pos="V">nhiễm</w>
+		<w pos="A">cao</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">tiếp tục</w>
+		<w pos="V">bôi</w>
+		<w pos="N">silkron</w>
+		<w pos="CC">và</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">dị ứng</w>
+	</s>
+	<s>
+		<w pos="R">Chưa</w>
+		<w pos="E">đến</w>
+		<w pos="N">tuổi</w>
+		<w pos="A">dậy thì</w>
+		<w pos=",">,</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="R">Không</w>
+		<w pos="V">uống</w>
+		<w pos="N">sữa</w>
+		<w pos="N">bầu</w>
+		<w pos=",">,</w>
+		<w pos="N">trẻ</w>
+		<w pos="V">sinh ra</w>
+		<w pos="V">bị</w>
+		<w pos="V">suy dinh dưỡng</w>
+	</s>
+	<s>
+		<w pos="N">Trẻ</w>
+		<w pos="V">ham</w>
+		<w pos="V">chơi</w>
+		<w pos=",">,</w>
+		<w pos="R">không</w>
+		<w pos="V">biết</w>
+		<w pos="A">đói</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">CT-Scan</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="A">gần</w>
+		<w pos="M">19</w>
+		<w pos="N">tháng</w>
+		<w pos="A">nặng</w>
+		<w pos="M">10.5kg</w>
+		<w pos=",">,</w>
+		<w pos="V">phát triển</w>
+		<w pos="V">có</w>
+		<w pos="A">bình thường</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">người</w>
+		<w pos="N">má</w>
+		<w pos="N">em</w>
+		<w pos="C">hay</w>
+		<w pos="V">đổ</w>
+		<w pos="N">mồ hôi</w>
+		<w pos=",">,</w>
+		<w pos="V">mệt mỏi</w>
+	</s>
+	<s>
+		<w pos="N">Đi tiểu</w>
+		<w pos="R">rất</w>
+		<w pos="A">ít</w>
+		<w pos=",">,</w>
+		<w pos="N">màu</w>
+		<w pos="N">vàng</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="M">2</w>
+		<w pos="N">tháng</w>
+		<w pos="N">tuổi</w>
+		<w pos=",">,</w>
+		<w pos="V">bổ sung</w>
+		<w pos="N">vitamin</w>
+		<w pos="N">C</w>
+		<w pos="E">cho</w>
+		<w pos="N">bé</w>
+		<w pos="P">bao nhiêu</w>
+		<w pos="V">là</w>
+		<w pos="R">vừa</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">nhổ</w>
+		<w pos="N">răng khôn</w>
+		<w pos=",">,</w>
+		<w pos="N">tai</w>
+		<w pos="P">tôi</w>
+		<w pos="V">nghe</w>
+		<w pos="N">rè</w>
+		<w pos=",">,</w>
+		<w pos="N">mắt</w>
+		<w pos="A">mờ</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">uống</w>
+		<w pos="Np">Junical</w>
+		<w pos="Np">D3</w>
+		<w pos="CC">và</w>
+		<w pos="N">thuốc bổ</w>
+		<w pos="Np">Centrumkid</w>
+		<w pos="X">thế nào</w>
+		<w pos="A">tốt</w>
+		<w pos="R">nhất</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="R">không</w>
+		<w pos="V">nôn</w>
+		<w pos="C">nhưng</w>
+		<w pos="C">hay</w>
+		<w pos="N">ẹo</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="A">Đau nhói</w>
+		<w pos="E">dưới</w>
+		<w pos="N">sườn</w>
+		<w pos=",">,</w>
+		<w pos="N">phân</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="V">xuất huyết</w>
+		<w pos="V">tiêu hóa</w>
+		<w pos="C">hay</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos=""">"</w>
+		<w pos="N">Đèn đỏ</w>
+		<w pos=""">"</w>
+		<w pos="R">không</w>
+		<w pos="R">đều</w>
+		<w pos=",">,</w>
+		<w pos="V">ra</w>
+		<w pos="N">máu</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="V">đợi</w>
+		<w pos="A">sạch</w>
+		<w pos="N">kinh</w>
+		<w pos="A">mới</w>
+		<w pos="V">khám</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="N">ửng</w>
+		<w pos="A">đỏ</w>
+		<w pos="CC">và</w>
+		<w pos="A">ngứa</w>
+		<w pos="N">khi</w>
+		<w pos="V">gặp</w>
+		<w pos="A">lạnh</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos=""">"</w>
+		<w pos="V">xì</w>
+		<w pos="N">hơi</w>
+		<w pos=""">"</w>
+		<w pos="V">bị</w>
+		<w pos="V">són</w>
+		<w pos="N">phân</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="N">Hậu môn</w>
+		<w pos="A">nóng</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn nhọt</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="Np">Bôi Denicol</w>
+		<w pos="V">trị</w>
+		<w pos="Nc">nấm</w>
+		<w pos="N">miệng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="M">5</w>
+		<w pos="E">trong</w>
+		<w pos="M">1</w>
+	</s>
+	<s>
+		<w pos="V">Đưa</w>
+		<w pos="N">tay</w>
+		<w pos="V">gọi</w>
+		<w pos="N">bé</w>
+		<w pos="R">không</w>
+		<w pos="V">nhìn</w>
+		<w pos="A">thẳng</w>
+		<w pos="C">hay</w>
+		<w pos="N">nháy mắt</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="V">Tiếp xúc</w>
+		<w pos="V">sơn</w>
+		<w pos="N">nước</w>
+		<w pos="A">thường xuyên</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">chất lượng</w>
+		<w pos="N">sữa</w>
+	</s>
+	<s>
+		<w pos="R">Từng</w>
+		<w pos="V">bị</w>
+		<w pos="V">lao phổi</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="V">làm việc</w>
+		<w pos="E">ở</w>
+		<w pos="N">nhà hàng</w>
+		<w pos=",">,</w>
+		<w pos="N">khách sạn</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="V">bị</w>
+		<w pos="N">viêm</w>
+		<w pos="V">hạch</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">kháng sinh</w>
+		<w pos="E">theo</w>
+		<w pos="N">đơn</w>
+		<w pos="Np">BS</w>
+		<w pos="V">kê</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="V">lao</w>
+		<w pos="V">điều trị</w>
+		<w pos="A">đúng</w>
+		<w pos="N">phác đồ</w>
+		<w pos="A">có dễ</w>
+		<w pos="V">tái phát</w>
+	</s>
+	<s>
+		<w pos="V">Ra</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">mồ hôi</w>
+		<w pos=",">,</w>
+		<w pos="N">chân</w>
+		<w pos="A">lạnh</w>
+		<w pos=",">,</w>
+		<w pos="N">tóc</w>
+		<w pos="V">rụng</w>
+		<w pos="N">vành</w>
+		<w pos="N">khăn</w>
+		<w pos="E">do</w>
+		<w pos="V">thiếu</w>
+		<w pos="N">canxi</w>
+	</s>
+	<s>
+		<w pos="Np">Đàm</w>
+		<w pos="V">lẫn</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="E">tức</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="N">hơi</w>
+		<w pos="V">thở</w>
+		<w pos="A">ngắn</w>
+		<w pos="E">do</w>
+		<w pos="N">lao phổi</w>
+	</s>
+	<s>
+		<w pos="N">Tóc</w>
+		<w pos="N">bé</w>
+		<w pos="R">không</w>
+		<w pos="V">mọc</w>
+		<w pos="E">ở</w>
+		<w pos="N">vùng</w>
+		<w pos="N">khoáy</w>
+		<w pos="CC">và</w>
+		<w pos="E">sau</w>
+		<w pos="N">gáy</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="V">Chích</w>
+		<w pos="N">ngừa</w>
+		<w pos="Np">BCG</w>
+		<w pos="R">không</w>
+		<w pos="V">thấy</w>
+		<w pos="A">sưng</w>
+		<w pos="N">mủ</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">tiêm</w>
+		<w pos="R">lại</w>
+	</s>
+	<s>
+		<w pos="N">Trẻ</w>
+		<w pos="V">dụi</w>
+		<w pos="N">mắt</w>
+		<w pos="E">vì</w>
+		<w pos="V">xem</w>
+		<w pos="N">điện thoại</w>
+		<w pos="R">quá</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="V">Khạc</w>
+		<w pos="N">đàm</w>
+		<w pos="V">kèm</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">khác</w>
+		<w pos="E">ngoài</w>
+		<w pos="N">lao phổi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos=""">"</w>
+		<w pos="V">xì</w>
+		<w pos="R">hơi</w>
+		<w pos=""">"</w>
+		<w pos="V">có</w>
+		<w pos="N">mùi</w>
+		<w pos=",">,</w>
+		<w pos="N">phân</w>
+		<w pos="N">sệt</w>
+		<w pos="N">màu</w>
+		<w pos="N">vàng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">bị</w>
+		<w pos="V">táo bón</w>
+	</s>
+	<s>
+		<w pos="N">Siêu âm</w>
+		<w pos="V">đàm</w>
+		<w pos="N">âm tính</w>
+		<w pos=",">,</w>
+		<w pos="N">khả năng</w>
+		<w pos="V">lây nhiễm</w>
+		<w pos="N">lao phổi</w>
+		<w pos="V">có</w>
+		<w pos="A">cao</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="C">hay</w>
+		<w pos="V">ngứa</w>
+		<w pos="A">khắp</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mẩn</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="V">Buồn ngủ</w>
+		<w pos="E">vào</w>
+		<w pos="N">buổi sáng</w>
+		<w pos="E">do</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="V">hạch</w>
+	</s>
+	<s>
+		<w pos="A">Hơn</w>
+		<w pos="M">4</w>
+		<w pos="N">tháng</w>
+		<w pos="R">chưa</w>
+		<w pos="V">hành kinh</w>
+		<w pos=",">,</w>
+		<w pos="V">đi</w>
+		<w pos="V">khám</w>
+		<w pos="R">không</w>
+		<w pos="V">thấy</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="A">Sôi</w>
+		<w pos="N">bụng</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="N">bao tử</w>
+		<w pos="R">đang</w>
+		<w pos="V">mắc</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">B</w>
+		<w pos=",">,</w>
+		<w pos="N">chỉ số</w>
+		<w pos="N">bilirubin</w>
+		<w pos="V">tăng</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="N">Tình trạng</w>
+		<w pos="N">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="N">B</w>
+		<w pos="E">của</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">chích</w>
+		<w pos="N">ngừa</w>
+	</s>
+	<s>
+		<w pos="V">Chóng mặt</w>
+		<w pos="V">chữa</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+		<w pos=",">,</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">MRI</w>
+		<w pos="V">có</w>
+		<w pos="V">ra</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="A">Nặng</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="A">đầy</w>
+		<w pos="N">hơi</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">tiêu</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="V">có</w>
+		<w pos="Np">Hp</w>
+	</s>
+	<s>
+		<w pos="V">Ngộ độc</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">cai</w>
+		<w pos="N">rượu</w>
+		<w pos="Np">Esperal</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Nửa đêm</w>
+		<w pos="V">tỉnh giấc</w>
+		<w pos="V">đi lại</w>
+		<w pos="A">khó khăn</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">tay chân</w>
+	</s>
+	<s>
+		<w pos="V">Kiểm tra</w>
+		<w pos="N">cơ thể</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">Hp</w>
+		<w pos="V">cần</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">máu</w>
+		<w pos="V">hay</w>
+		<w pos="N">nội soi</w>
+	</s>
+	<s>
+		<w pos="A">Trễ</w>
+		<w pos="V">kinh</w>
+		<w pos="CC">và</w>
+		<w pos="V">thử</w>
+		<w pos="N">thai</w>
+		<w pos="M">2</w>
+		<w pos="N">vạch</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">có thai</w>
+		<w pos="R">chưa</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="R">không</w>
+		<w pos="V">tăng</w>
+		<w pos="N">cân</w>
+		<w pos=",">,</w>
+		<w pos="N">chiều cao</w>
+		<w pos=",">,</w>
+		<w pos="A">ít</w>
+		<w pos="N">đi ngoài</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">khám</w>
+		<w pos="N">tổng quát</w>
+	</s>
+	<s>
+		<w pos="Np">Cyfra21</w>
+		<w pos=".">.</w>
+		<w pos="M">1</w>
+		<w pos="A">bất thường</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="V">thêm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">tầm</w>
+		<w pos="V">soát</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">phổi</w>
+		<w pos="A">khác</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">nổi</w>
+		<w pos="N">gân</w>
+		<w pos="A">xanh</w>
+		<w pos="N">vùng</w>
+		<w pos="N">sống mũi</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">đáng</w>
+		<w pos="V">lo</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="A">sạm</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="N">khi</w>
+		<w pos="V">trị</w>
+		<w pos="N">lao</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">dùng</w>
+		<w pos="V">thêm</w>
+		<w pos="N">vitamin</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">uống</w>
+		<w pos="N">kháng sinh</w>
+		<w pos="V">gây</w>
+		<w pos="V">sụt</w>
+		<w pos="N">cân</w>
+		<w pos=",">,</w>
+		<w pos="N">biếng</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">lưng</w>
+		<w pos=":">:</w>
+		<w pos="N">Di chứng</w>
+		<w pos="E">sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+	</s>
+	<s>
+		<w pos="A">Tự nhiên</w>
+		<w pos="V">mất</w>
+		<w pos="N">kinh</w>
+		<w pos=",">,</w>
+		<w pos="P">tôi</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">họng</w>
+		<w pos="N">cấp</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+		<w pos="N">đau</w>
+	</s>
+	<s>
+		<w pos="N">Đặc điểm</w>
+		<w pos="V">nhận biết</w>
+		<w pos="N">vật nuôi</w>
+		<w pos="V">bị</w>
+		<w pos="A">dại</w>
+	</s>
+	<s>
+		<w pos="V">Mang</w>
+		<w pos="N">thai</w>
+		<w pos="T">ngay</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">tháo</w>
+		<w pos="N">vòng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+		<w pos="N">bé</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">mẩn</w>
+		<w pos="N">ngứa</w>
+		<w pos="E">ở</w>
+		<w pos="N">mặt</w>
+		<w pos=",">,</w>
+		<w pos="N">ho</w>
+		<w pos=",">,</w>
+		<w pos="N">sổ mũi</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="N">dị ứng</w>
+		<w pos="V">thay đổi</w>
+		<w pos="N">thời tiết</w>
+	</s>
+	<s>
+		<w pos="A">Sưng</w>
+		<w pos=",">,</w>
+		<w pos="A">đau nhức</w>
+		<w pos=",">,</w>
+		<w pos="V">ngứa</w>
+		<w pos="N">chỗ</w>
+		<w pos="V">bó</w>
+		<w pos="N">bột</w>
+		<w pos="A">cẳng tay</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="A">Sạch</w>
+		<w pos="N">kinh</w>
+		<w pos="M">2</w>
+		<w pos="N">ngày</w>
+		<w pos="R">mới</w>
+		<w pos="V">đặt</w>
+		<w pos="N">vòng tránh thai</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+	</s>
+	<s>
+		<w pos="V">Làm</w>
+		<w pos="P">thế nào</w>
+		<w pos="E">để</w>
+		<w pos="V">cai</w>
+		<w pos="N">cà phê</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Mẩn</w>
+		<w pos="A">đỏ</w>
+		<w pos="C">như</w>
+		<w pos="N">muỗi</w>
+		<w pos="V">cắn</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mề đay</w>
+		<w pos="N">khi</w>
+		<w pos="V">gặp</w>
+		<w pos="N">trời</w>
+		<w pos="A">lạnh</w>
+	</s>
+	<s>
+		<w pos="N">Trí nhớ</w>
+		<w pos="A">kém</w>
+		<w pos=",">,</w>
+		<w pos="A">chậm chạp</w>
+		<w pos="E">sau</w>
+		<w pos="V">tự tử</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="E">ở</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="V">Phân tích</w>
+		<w pos="N">tế bào</w>
+		<w pos="N">máu</w>
+		<w pos="E">bằng</w>
+		<w pos="N">laser</w>
+		<w pos="V">có</w>
+		<w pos="N">chỉ số</w>
+		<w pos="V">vượt</w>
+		<w pos="N">ngưỡng</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Cục</w>
+		<w pos="A">u</w>
+		<w pos="E">bằng</w>
+		<w pos="N">quả</w>
+		<w pos="N">táo</w>
+		<w pos="E">sau</w>
+		<w pos="N">gáy</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">mổ</w>
+	</s>
+	<s>
+		<w pos="N">Phương pháp</w>
+		<w pos="V">cấy</w>
+		<w pos="Np">H.pylori</w>
+		<w pos="V">làm</w>
+		<w pos="N">kháng sinh</w>
+		<w pos="N">đồ</w>
+		<w pos="V">thực hiện</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="R">Đang</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">mũi</w>
+		<w pos="N">thứ</w>
+		<w pos="M">2</w>
+		<w pos="V">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="N">thủy đậu</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="R">có thể</w>
+		<w pos="P">tự</w>
+		<w pos="V">rút</w>
+		<w pos="R">chỉ</w>
+		<w pos="N">vết</w>
+		<w pos="V">mổ</w>
+		<w pos="N">sau</w>
+		<w pos="V">sinh</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="V">nướu</w>
+		<w pos="N">răng</w>
+		<w pos="V">bị</w>
+		<w pos="V">mọc</w>
+		<w pos=""">"</w>
+		<w pos="N">hạt</w>
+		<w pos="N">gạo</w>
+		<w pos=""">"</w>
+		<w pos="C">như</w>
+		<w pos="E">trong</w>
+		<w pos="N">hình</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="A">bầm</w>
+		<w pos="A">tím</w>
+		<w pos=",">,</w>
+		<w pos="N">tim</w>
+		<w pos="V">đập</w>
+		<w pos="A">nhanh</w>
+		<w pos=",">,</w>
+		<w pos="V">tăng</w>
+		<w pos="N">tiết</w>
+		<w pos="N">mồ hôi</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">cách</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="V">Run</w>
+		<w pos="N">tay</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">gai ốc</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">rối loạn</w>
+		<w pos="N">thần kinh</w>
+		<w pos="N">thực vật</w>
+	</s>
+	<s>
+		<w pos="A">Đau nhói</w>
+		<w pos="N">ngực</w>
+		<w pos="N">khi</w>
+		<w pos="R">đang</w>
+		<w pos="V">đẩy</w>
+		<w pos="M">tạ</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="P">tự</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="V">Nhiễm</w>
+		<w pos="N">virus</w>
+		<w pos="N">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">B</w>
+		<w pos="V">có</w>
+		<w pos="L">những</w>
+		<w pos="N">thể nào</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="N">tiêu chảy</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">muốn</w>
+		<w pos="V">xổ</w>
+		<w pos="N">giun</w>
+		<w pos="C">nhưng</w>
+		<w pos="V">sợ</w>
+		<w pos="P">nó</w>
+		<w pos="V">bò</w>
+		<w pos="R">ra</w>
+		<w pos="E">ngoài</w>
+	</s>
+	<s>
+		<w pos="N">Nhịp</w>
+		<w pos="N">tim</w>
+		<w pos="M">40-45</w>
+		<w pos="N">lần/phút</w>
+		<w pos=",">,</w>
+		<w pos="V">mệt</w>
+		<w pos="E">trong</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">đáng</w>
+		<w pos="V">lo</w>
+	</s>
+	<s>
+		<w pos="N">Cột sống</w>
+		<w pos="V">kêu</w>
+		<w pos=""">"</w>
+		<w pos="V">lụp</w>
+		<w pos="N">cụp</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">lưng</w>
+		<w pos="E">do</w>
+		<w pos="V">khiêng</w>
+		<w pos="N">đồ</w>
+		<w pos="A">nặng</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="N">Móng</w>
+		<w pos="N">chân</w>
+		<w pos="A">thâm</w>
+		<w pos="A">tím</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="E">do</w>
+		<w pos="V">mang</w>
+		<w pos="N">giày</w>
+		<w pos="A">chật</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="N">tôm</w>
+		<w pos=",">,</w>
+		<w pos="N">cá</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">calcium</w>
+		<w pos="Np">Hasan</w>
+		<w pos="R">đã</w>
+		<w pos="A">đủ</w>
+		<w pos="N">canxi</w>
+		<w pos="E">để</w>
+		<w pos="V">phát triển</w>
+		<w pos="N">chiều cao</w>
+	</s>
+	<s>
+		<w pos="N">Ngực</w>
+		<w pos="A">nhỏ</w>
+		<w pos="E">do</w>
+		<w pos="N">bệnh lý</w>
+		<w pos="C">hay</w>
+		<w pos="N">cháu</w>
+		<w pos="R">chưa</w>
+		<w pos="V">phát triển</w>
+	</s>
+	<s>
+		<w pos="N">Đi ngoài</w>
+		<w pos="V">rỉ</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="A">đầy</w>
+		<w pos="N">hơi</w>
+		<w pos=",">,</w>
+		<w pos="N">đại tiện</w>
+		<w pos="A">khó khăn</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="V">giúp</w>
+		<w pos="P">tôi</w>
+		<w pos="E">với</w>
+	</s>
+	<s>
+		<w pos="N">Chế độ</w>
+		<w pos="N">dinh dưỡng</w>
+		<w pos="V">giảm</w>
+		<w pos="N">cân</w>
+		<w pos="V">có</w>
+		<w pos="N">lợi</w>
+		<w pos="V">cho</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="N">Cháu</w>
+		<w pos="V">đi đại tiện</w>
+		<w pos="R">ra</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="A">rát</w>
+		<w pos="N">hậu môn</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">bụng</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="A">cứng</w>
+		<w pos="N">vùng</w>
+		<w pos="N">rốn</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">levofloxacin</w>
+		<w pos="V">gây</w>
+		<w pos="V">ngứa ngáy</w>
+		<w pos=",">,</w>
+		<w pos="V">phát ban</w>
+		<w pos=",">,</w>
+		<w pos="V">xử lý</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="V">Tiếp xúc</w>
+		<w pos="N">thời gian</w>
+		<w pos="A">dài</w>
+		<w pos="E">với</w>
+		<w pos="N">người</w>
+		<w pos="Np">HIV</w>
+		<w pos="N">giai đoạn</w>
+		<w pos="N">cuối</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="V">lây</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="V">Nhờ</w>
+		<w pos="Np">BS</w>
+		<w pos="V">nói</w>
+		<w pos="A">rõ</w>
+		<w pos="R">hơn</w>
+		<w pos="E">về</w>
+		<w pos="N">chỉ số</w>
+		<w pos="N">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">cổ tay</w>
+		<w pos=",">,</w>
+		<w pos="N">chườm</w>
+		<w pos="N">đá</w>
+		<w pos="A">lạnh</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="V">về</w>
+		<w pos="N">đại tràng</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos=""">"</w>
+		<w pos="N">bột</w>
+		<w pos="N">dạ dày</w>
+		<w pos=""">"</w>
+	</s>
+	<s>
+		<w pos="V">Bị</w>
+		<w pos="V">gãy</w>
+		<w pos="N">xương</w>
+		<w pos=",">,</w>
+		<w pos="N">trường hợp</w>
+		<w pos="P">nào</w>
+		<w pos="C">nên</w>
+		<w pos="V">theo</w>
+		<w pos="N">đông y</w>
+	</s>
+	<s>
+		<w pos="Np">Phì</w>
+		<w pos="V">đại</w>
+		<w pos="N">tiền liệt tuyến</w>
+		<w pos=":">:</w>
+		<w pos="V">Điều trị</w>
+		<w pos="N">đông y</w>
+		<w pos="C">hay</w>
+		<w pos="V">tây y</w>
+	</s>
+	<s>
+		<w pos="N">Tâm thần</w>
+		<w pos="V">phân liệt</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">điều trị</w>
+		<w pos="E">bằng</w>
+		<w pos="N">đông y</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">xoang</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="E">bằng</w>
+		<w pos="N">đông y</w>
+		<w pos="V">có</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="N">Phương pháp</w>
+		<w pos="CC">và</w>
+		<w pos="N">chi phí</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">giang mai</w>
+	</s>
+	<s>
+		<w pos="V">Sốt</w>
+		<w pos="N">phát ban</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">nhiễm bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Chỉ số</w>
+		<w pos="Np">Anti</w>
+		<w pos="Np">TPO</w>
+		<w pos=",">,</w>
+		<w pos="P">tôi</w>
+		<w pos="V">sợ</w>
+		<w pos="N">ung thư</w>
+		<w pos="V">tuyến giáp</w>
+	</s>
+	<s>
+		<w pos="V">Chụp</w>
+		<w pos="Np">CT</w>
+		<w pos="V">có</w>
+		<w pos="V">chẩn đoán</w>
+		<w pos="V">được</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">gây</w>
+		<w pos="V">đau</w>
+		<w pos="N">nửa</w>
+		<w pos="N">đầu</w>
+		<w pos="V">kèm</w>
+		<w pos="A">mờ</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="N">Máu khô</w>
+		<w pos="E">trên</w>
+		<w pos="N">tóc</w>
+		<w pos="N">quẹt</w>
+		<w pos="E">vào</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="N">Kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">ma túy</w>
+		<w pos="R">có thể</w>
+		<w pos="V">làm</w>
+		<w pos="N">sai lệch</w>
+	</s>
+	<s>
+		<w pos="X">Tại sao</w>
+		<w pos="V">gãy</w>
+		<w pos="N">xương</w>
+		<w pos="N">mũi</w>
+		<w pos="C">mà</w>
+		<w pos="Np">BS</w>
+		<w pos="R">không</w>
+		<w pos="V">chỉnh</w>
+		<w pos="R">lại</w>
+		<w pos="E">cho</w>
+		<w pos="P">tôi</w>
+	</s>
+	<s>
+		<w pos="N">Lồi</w>
+		<w pos="N">da</w>
+		<w pos="N">chỗ</w>
+		<w pos="N">vết</w>
+		<w pos="V">mổ</w>
+		<w pos=",">,</w>
+		<w pos="N">màu</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="V">giải thích</w>
+		<w pos="V">giúp</w>
+		<w pos="N">cháu</w>
+		<w pos="E">với</w>
+	</s>
+	<s>
+		<w pos="V">Hết</w>
+		<w pos="N">phát ban</w>
+		<w pos="V">để</w>
+		<w pos="R">lại</w>
+		<w pos="N">vết</w>
+		<w pos="A">thâm</w>
+		<w pos="E">do</w>
+		<w pos="V">gãi</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="P">Tôi</w>
+		<w pos="V">bị</w>
+		<w pos="N">tiểu đường</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+		<w pos="Np">BS</w>
+		<w pos="V">thay đổi</w>
+		<w pos="N">thời gian</w>
+		<w pos="A">tái</w>
+		<w pos="V">khám</w>
+		<w pos="CC">và</w>
+		<w pos="V">cấp</w>
+		<w pos="N">thuốc</w>
+	</s>
+	<s>
+		<w pos="V">Đứt</w>
+		<w pos="N">dây</w>
+		<w pos="R">chẳng</w>
+		<w pos="A">chéo</w>
+		<w pos="A">trước</w>
+		<w pos=",">,</w>
+		<w pos="V">vận động</w>
+		<w pos="P">sao</w>
+		<w pos="V">cho</w>
+		<w pos="A">đúng</w>
+	</s>
+	<s>
+		<w pos="M">Ù</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="A">đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="N">nước mũi</w>
+		<w pos="V">có</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">ác tính</w>
+	</s>
+	<s>
+		<w pos="N">Mắt</w>
+		<w pos="A">tím</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="A">to</w>
+		<w pos=",">,</w>
+		<w pos="R">không</w>
+		<w pos="V">mở</w>
+		<w pos="R">được</w>
+		<w pos="N">sau</w>
+		<w pos="N">chấn thương</w>
+	</s>
+	<s>
+		<w pos=""">"</w>
+		<w pos="N">Cậu</w>
+		<w pos="A">nhỏ</w>
+		<w pos=""">"</w>
+		<w pos="V">có</w>
+		<w pos="V">bớt</w>
+		<w pos="N">màu</w>
+		<w pos="N">hồng</w>
+		<w pos=",">,</w>
+		<w pos="R">nổi</w>
+		<w pos="V">hạch</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="X">Cầu khuẩn</w>
+		<w pos="Nu">gram</w>
+		<w pos="N">dương</w>
+		<w pos="N">mức độ</w>
+		<w pos="M">3</w>
+		<w pos="Nu">+</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="P">sao</w>
+	</s>
+	<s>
+		<w pos="N">Mặt</w>
+		<w pos="E">sau</w>
+		<w pos="N">cánh tay</w>
+		<w pos="V">nổi</w>
+		<w pos="N">khối u</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="A">mềm</w>
+		<w pos="CC">và</w>
+		<w pos="A">đau</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="N">đốm</w>
+		<w pos="A">nhỏ</w>
+		<w pos="E">ở</w>
+		<w pos=""">"</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos=""">"</w>
+		<w pos="V">là</w>
+		<w pos="N">sùi</w>
+		<w pos="V">mào gà</w>
+		<w pos="C">hay</w>
+		<w pos="N">thịt</w>
+		<w pos="V">dư</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">cải thiện</w>
+		<w pos="N">tình trạng</w>
+		<w pos="V">rụng</w>
+		<w pos=",">,</w>
+		<w pos="N">hạt</w>
+		<w pos="A">trắng</w>
+		<w pos="E">ở</w>
+		<w pos="N">chân</w>
+		<w pos="N">tóc</w>
+	</s>
+	<s>
+		<w pos="E">Với</w>
+		<w pos="N">kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="Np">Herpes Ig</w>
+		<w pos="Np">G</w>
+		<w pos="V">tests</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Đổi</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Stamlo</w>
+		<w pos="M">5mg</w>
+		<w pos="E">bằng</w>
+		<w pos="Np">Apitim</w>
+		<w pos="M">5mg</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">hết</w>
+		<w pos="N">tình trạng</w>
+		<w pos="A">sưng</w>
+		<w pos="N">bàn chân</w>
+	</s>
+	<s>
+		<w pos="V">Mong</w>
+		<w pos="Np">BS</w>
+		<w pos="V">xem</w>
+		<w pos="V">giúp</w>
+		<w pos="N">cháu</w>
+		<w pos="N">kết quả</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">CT</w>
+		<w pos="V">gù</w>
+		<w pos="A">vẹo</w>
+		<w pos="N">cột sống</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau</w>
+		<w pos="N">chân</w>
+		<w pos="A">trái</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">nốt đen</w>
+		<w pos="E">ở</w>
+		<w pos="N">mông</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="P">Tôi</w>
+		<w pos="R">đã</w>
+		<w pos="V">mãn kinh</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+		<w pos="V">bị</w>
+		<w pos="V">ra</w>
+		<w pos="N">dịch</w>
+		<w pos="A">nâu</w>
+		<w pos="A">đen</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">muốn</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thận</w>
+		<w pos="E">để</w>
+		<w pos="V">ghép</w>
+		<w pos="E">cho</w>
+		<w pos="N">mẹ</w>
+		<w pos="C">thì</w>
+		<w pos="V">cần</w>
+		<w pos="N">điều kiện</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Ngón tay</w>
+		<w pos="A">sưng</w>
+		<w pos="A">đau</w>
+		<w pos=",">,</w>
+		<w pos="A">tím</w>
+		<w pos="E">sau</w>
+		<w pos="V">tháo</w>
+		<w pos="N">đinh</w>
+		<w pos="E">do</w>
+		<w pos="N">bên</w>
+		<w pos="N">trong</w>
+		<w pos="V">đọng</w>
+		<w pos="N">mủ</w>
+	</s>
+	<s>
+		<w pos="V">Lỡ</w>
+		<w pos="V">tra</w>
+		<w pos="N">thuốc</w>
+		<w pos="A">nhỏ</w>
+		<w pos="N">mũi</w>
+		<w pos="N">rhinex</w>
+		<w pos="V">vào</w>
+		<w pos="N">mắt</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="A">Liệt</w>
+		<w pos="N">dây thần kinh</w>
+		<w pos="M">VII</w>
+		<w pos=",">,</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">vi phẫu</w>
+		<w pos="R">không</w>
+		<w pos="A">lành</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="N">ban</w>
+		<w pos="A">đỏ</w>
+		<w pos="L">vài</w>
+		<w pos="N">ngày</w>
+		<w pos="V">biến mất</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">viêm</w>
+		<w pos="P">mô</w>
+		<w pos="N">tế bào</w>
+	</s>
+	<s>
+		<w pos="N">Chỉ số</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="V">thai nhi</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="C">Hay</w>
+		<w pos="V">cười nói</w>
+		<w pos="N">một mình</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="N">vấn đề</w>
+		<w pos="N">tâm lý</w>
+	</s>
+	<s>
+		<w pos="V">Nghe</w>
+		<w pos="N">tiếng</w>
+		<w pos="V">rít</w>
+		<w pos="E">trong</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="V">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="V">mất</w>
+		<w pos="N">thăng bằng</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="E">Do</w>
+		<w pos="N">cơ địa</w>
+		<w pos="R">không</w>
+		<w pos="A">tốt</w>
+		<w pos="C">nên</w>
+		<w pos="N">em</w>
+		<w pos="V">nổi</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">mụn</w>
+		<w pos="N">nước lớn</w>
+	</s>
+	<s>
+		<w pos="R">Đã</w>
+		<w pos="V">tiếp xúc</w>
+		<w pos="E">với</w>
+		<w pos="N">bệnh nhân</w>
+		<w pos="N">thủy đậu</w>
+		<w pos=",">,</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">phòng</w>
+		<w pos="V">có</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="N">Nhà</w>
+		<w pos="V">có</w>
+		<w pos="N">người</w>
+		<w pos="V">bị</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+		<w pos="E">để</w>
+		<w pos="N">tầm</w>
+		<w pos="V">soát</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos=""">"</w>
+		<w pos="N">Xì</w>
+		<w pos="N">hơi</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="A">to</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos="E">do</w>
+		<w pos="V">ăn</w>
+		<w pos="R">quá</w>
+		<w pos="A">no</w>
+	</s>
+	<s>
+		<w pos="V">Dính</w>
+		<w pos="N">máu</w>
+		<w pos="E">của</w>
+		<w pos="N">người</w>
+		<w pos="V">bị</w>
+		<w pos="V">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">C</w>
+		<w pos=",">,</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">bị</w>
+		<w pos="V">lây nhiễm</w>
+	</s>
+	<s>
+		<w pos="V">Đi ngoài</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">lần</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nước</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">trẻ</w>
+		<w pos="V">nhiễm</w>
+		<w pos="V">lao</w>
+	</s>
+	<s>
+		<w pos="N">Kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="V">cho</w>
+		<w pos="V">thấy</w>
+		<w pos="N">con gái</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="N">máu</w>
+		<w pos="A">khó</w>
+		<w pos="A">đông</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">khò khè</w>
+		<w pos="E">từ</w>
+		<w pos="N">lúc</w>
+		<w pos="R">mới</w>
+		<w pos="V">sinh</w>
+		<w pos=",">,</w>
+		<w pos="C">hay</w>
+		<w pos="N">vặn</w>
+		<w pos="P">mình</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="M">9</w>
+		<w pos="N">tuổi</w>
+		<w pos="R">nổi</w>
+		<w pos="V">mụn</w>
+		<w pos="A">chi chít</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="CC">và</w>
+		<w pos="V">chảy</w>
+		<w pos="N">nước</w>
+		<w pos="E">ở</w>
+		<w pos="N">rốn</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">cháu</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="M">Ợ</w>
+		<w pos="N">chua</w>
+		<w pos=",">,</w>
+		<w pos="V">nôn</w>
+		<w pos="V">ói</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">uống</w>
+		<w pos="N">rượu bia</w>
+		<w pos=",">,</w>
+		<w pos="N">dạ dày</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="N">vấn đề</w>
+	</s>
+	<s>
+		<w pos="A">Trễ</w>
+		<w pos="N">kinh</w>
+		<w pos="V">là</w>
+		<w pos="N">tác dụng</w>
+		<w pos="V">phụ</w>
+		<w pos="E">của</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="Np">Hp</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="E">tức</w>
+		<w pos="N">ngực</w>
+		<w pos="A">trái</w>
+		<w pos="N">khi</w>
+		<w pos="V">kê</w>
+		<w pos="A">cao</w>
+		<w pos="N">gối</w>
+		<w pos="V">ngủ</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Hiện tại</w>
+		<w pos="N">phương pháp</w>
+		<w pos="V">chích</w>
+		<w pos="N">ngừa</w>
+		<w pos="N">dị ứng</w>
+		<w pos="V">có</w>
+		<w pos="V">được</w>
+		<w pos="V">áp dụng</w>
+	</s>
+	<s>
+		<w pos="V">Có</w>
+		<w pos="C">nên</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos=",">,</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="Np">HIV</w>
+		<w pos=",">,</w>
+		<w pos="V">giang mai</w>
+		<w pos="E">trong</w>
+		<w pos="N">cùng</w>
+		<w pos="M">1</w>
+		<w pos="N">buổi sáng</w>
+	</s>
+	<s>
+		<w pos="N">Kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">men</w>
+		<w pos="N">gan</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="V">nói</w>
+		<w pos="R">lên</w>
+		<w pos="N">điều</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="A">Nóng sốt</w>
+		<w pos=",">,</w>
+		<w pos="N">ngứa</w>
+		<w pos="A">khó chịu</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">thủy đậu</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">đi</w>
+		<w pos="V">tiểu tiết</w>
+		<w pos="R">ra</w>
+		<w pos="N">dịch nhầy</w>
+		<w pos="N">vàng</w>
+		<w pos="A">xanh</w>
+		<w pos="E">ở</w>
+		<w pos="N">“</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos="A">”</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">sanh</w>
+		<w pos="V">mổ</w>
+		<w pos="V">có</w>
+		<w pos="R">nhất thiết</w>
+		<w pos="V">phải</w>
+		<w pos="V">dùng</w>
+		<w pos="N">kháng sinh</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">tuyến</w>
+		<w pos="N">tiết</w>
+		<w pos="V">bã</w>
+		<w pos="N">nhờn</w>
+		<w pos="C">hay</w>
+		<w pos="V">tái phát</w>
+		<w pos=",">,</w>
+		<w pos="V">khám</w>
+		<w pos="E">ở</w>
+		<w pos="P">đâu</w>
+		<w pos="A">tốt</w>
+		<w pos="R">nhất</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="N">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">B</w>
+		<w pos="V">có</w>
+		<w pos="P">tự</w>
+		<w pos="V">khỏi</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="V">Lỡ</w>
+		<w pos="V">uống</w>
+		<w pos="N">bia</w>
+		<w pos="E">sau</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">mắt</w>
+		<w pos="E">bằng</w>
+		<w pos="N">công nghệ</w>
+		<w pos="N">lasik</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos="V">kéo dài</w>
+		<w pos="E">sau</w>
+		<w pos="N">va đập</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="A">Bầm</w>
+		<w pos="N">tay</w>
+		<w pos="N">chỗ</w>
+		<w pos="V">đâm</w>
+		<w pos="N">kim tiêm</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">ngủ</w>
+		<w pos="R">không</w>
+		<w pos="A">ngon giấc</w>
+		<w pos="E">do</w>
+		<w pos="V">thiếu</w>
+		<w pos="N">vitamin</w>
+		<w pos="Np">D</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="M">3</w>
+		<w pos="N">tuổi</w>
+		<w pos="A">nặng</w>
+		<w pos="M">12kg</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">suy dinh dưỡng</w>
+	</s>
+	<s>
+		<w pos="N">Thuốc</w>
+		<w pos="V">in</w>
+		<w pos="N">chữ</w>
+		<w pos="Np">RX</w>
+		<w pos="M">922</w>
+		<w pos="V">dùng</w>
+		<w pos="E">để</w>
+		<w pos="V">chữa</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+		<w pos="P">vậy</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Sau</w>
+		<w pos="V">chích</w>
+		<w pos="N">lẹo</w>
+		<w pos=",">,</w>
+		<w pos="N">cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau nhức</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">nhiễm trùng</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">hết</w>
+		<w pos="N">tình trạng</w>
+		<w pos="V">đi ngoài</w>
+		<w pos="N">phân</w>
+		<w pos="V">sống</w>
+	</s>
+	<s>
+		<w pos="V">Bị</w>
+		<w pos="N">cận thị</w>
+		<w pos="V">đeo</w>
+		<w pos="N">kính</w>
+		<w pos="R">không</w>
+		<w pos="N">độ</w>
+		<w pos="V">có</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="V">Ngừng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">bàng quang</w>
+		<w pos="P">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">được</w>
+		<w pos="V">“</w>
+		<w pos="V">yêu</w>
+		<w pos="M">”</w>
+	</s>
+	<s>
+		<w pos="R">Đang</w>
+		<w pos="V">hóa trị</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">vú</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">được</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">đau đầu</w>
+	</s>
+	<s>
+		<w pos="A">Rách</w>
+		<w pos=""">"</w>
+		<w pos="N">áo mưa</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chống</w>
+		<w pos="V">phơi</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="N">Quai hàm</w>
+		<w pos="A">căng</w>
+		<w pos="A">cứng</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">tuyến</w>
+		<w pos="N">nước bọt</w>
+		<w pos="A">mang tai</w>
+	</s>
+	<s>
+		<w pos="N">Vú</w>
+		<w pos="A">căng</w>
+		<w pos="CC">và</w>
+		<w pos="N">tiết</w>
+		<w pos="N">dịch</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="V">phế quản</w>
+		<w pos="N">phổi</w>
+		<w pos="R">có thể</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">dứt điểm</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">rát</w>
+		<w pos="N">khóe</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="V">chảy</w>
+		<w pos="N">ghèn</w>
+		<w pos=",">,</w>
+		<w pos="N">tình trạng</w>
+		<w pos="N">con</w>
+		<w pos="V">có</w>
+		<w pos="A">nặng</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="V">Tham gia</w>
+		<w pos="Np">BHYT</w>
+		<w pos="M">3</w>
+		<w pos="N">năm</w>
+		<w pos=",">,</w>
+		<w pos="V">lọc</w>
+		<w pos="N">máu</w>
+		<w pos="V">được</w>
+		<w pos="V">thanh toán</w>
+		<w pos="X">như thế nào</w>
+	</s>
+	<s>
+		<w pos="N">Đầu lưỡi</w>
+		<w pos="V">đẩy</w>
+		<w pos="E">vào</w>
+		<w pos="N">nướu</w>
+		<w pos="N">răng</w>
+		<w pos="V">bắn</w>
+		<w pos="R">ra</w>
+		<w pos="Nc">tia</w>
+		<w pos="N">nước bọt</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">giảm</w>
+		<w pos="V">đau</w>
+		<w pos="N">vùng</w>
+		<w pos="N">hốc</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="V">rối loạn</w>
+		<w pos="N">thần kinh</w>
+		<w pos="N">tim</w>
+		<w pos="E">bằng</w>
+		<w pos="N">cách</w>
+		<w pos="P">nào</w>
+		<w pos=",">,</w>
+		<w pos="V">thưa</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="N">hưng</w>
+		<w pos="V">cảm</w>
+		<w pos="V">cần</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Chế độ</w>
+		<w pos="N">dinh dưỡng</w>
+		<w pos="E">để</w>
+		<w pos="V">viêm</w>
+		<w pos="V">hạch</w>
+		<w pos="E">dưới</w>
+		<w pos="N">hàm</w>
+		<w pos="A">mau</w>
+		<w pos="A">lành</w>
+	</s>
+	<s>
+		<w pos="V">Chấm</w>
+		<w pos="A">nâu</w>
+		<w pos="V">lan</w>
+		<w pos="R">ra</w>
+		<w pos="A">khắp</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">vú</w>
+	</s>
+	<s>
+		<w pos="N">Buồng</w>
+		<w pos="N">tử cung</w>
+		<w pos="V">có</w>
+		<w pos=""">"</w>
+		<w pos="V">tổ chức</w>
+		<w pos="V">thưa</w>
+		<w pos="A">âm</w>
+		<w pos=""">"</w>
+		<w pos="E">sau</w>
+		<w pos="V">bỏ</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="V">Có</w>
+		<w pos="C">nên</w>
+		<w pos="V">bôi</w>
+		<w pos="N">kem</w>
+		<w pos="Np">Hirudroid</w>
+		<w pos="V">trị</w>
+		<w pos="N">vết</w>
+		<w pos="A">bầm</w>
+		<w pos="E">trên</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="Np">Giãn</w>
+		<w pos="V">tĩnh mạch</w>
+		<w pos="N">chân</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">thế nào</w>
+		<w pos="A">tốt</w>
+		<w pos="R">nhất</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="V">gội</w>
+		<w pos="N">đầu</w>
+		<w pos="A">kỹ</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">ngứa</w>
+		<w pos="N">da</w>
+		<w pos="A">dữ dội</w>
+	</s>
+	<s>
+		<w pos="Np">Viện Pasteur Nha Trang</w>
+		<w pos="V">có</w>
+		<w pos="V">làm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">dị ứng</w>
+		<w pos="N">cơ địa</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="V">cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">tình trạng</w>
+		<w pos="N">móng</w>
+		<w pos="V">quặp</w>
+	</s>
+	<s>
+		<w pos="V">Ngủ</w>
+		<w pos="C">hay</w>
+		<w pos="V">phát</w>
+		<w pos="R">ra</w>
+		<w pos="N">tiếng</w>
+		<w pos=""">"</w>
+		<w pos="V">rên</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">cải thiện</w>
+	</s>
+	<s>
+		<w pos="Np">Rô</w>
+		<w pos="V">́</w>
+		<w pos="N">i</w>
+		<w pos="N">loa</w>
+		<w pos="M">̣</w>
+		<w pos="N">n</w>
+		<w pos="V">tiê</w>
+		<w pos="M">̀</w>
+		<w pos="N">n</w>
+		<w pos="V">đi</w>
+		<w pos="V">̀</w>
+		<w pos="N">nh</w>
+		<w pos=",">,</w>
+		<w pos="V">uô</w>
+		<w pos="M">́</w>
+		<w pos="N">ng</w>
+		<w pos="Np">Betaserc</w>
+		<w pos="A">lâu dài</w>
+		<w pos="V">co</w>
+		<w pos="M">́</w>
+		<w pos="Nu">ha</w>
+		<w pos="M">̣</w>
+		<w pos="N">i</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="V">Ngứa</w>
+		<w pos="N">da</w>
+		<w pos="N">đầu</w>
+		<w pos="CC">và</w>
+		<w pos="N">ngực</w>
+		<w pos="L">mỗi</w>
+		<w pos="N">khi</w>
+		<w pos="A">nóng</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="A">Khó chịu</w>
+		<w pos="N">vùng</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="V">sốt</w>
+		<w pos=",">,</w>
+		<w pos="N">sổ mũi</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="V">lao</w>
+		<w pos="V">kháng</w>
+		<w pos="N">thuốc</w>
+	</s>
+	<s>
+		<w pos="A">Sưng</w>
+		<w pos="N">trán</w>
+		<w pos=",">,</w>
+		<w pos="A">bầm</w>
+		<w pos="N">mắt</w>
+		<w pos="A">sau</w>
+		<w pos="V">va chạm</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">cần thiết</w>
+		<w pos="V">phải</w>
+		<w pos="V">làm</w>
+		<w pos="V">kiểm tra</w>
+	</s>
+	<s>
+		<w pos="A">Thường xuyên</w>
+		<w pos="N">táo bón</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">tiêu</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">hạch</w>
+		<w pos="N">cổ</w>
+		<w pos="CC">và</w>
+		<w pos="N">góc</w>
+		<w pos="N">hàm</w>
+		<w pos="V">gây</w>
+		<w pos="A">nóng</w>
+		<w pos="E">trong</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="V">mệt mỏi</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="N">thịt</w>
+		<w pos="N">gà</w>
+		<w pos=",">,</w>
+		<w pos="N">bò</w>
+		<w pos=",">,</w>
+		<w pos="N">hải sản</w>
+		<w pos="...">...</w>
+		<w pos="V">bị</w>
+		<w pos="V">ngứa</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">chữa</w>
+		<w pos="V">khỏi</w>
+		<w pos="A">hoàn toàn</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="V">có</w>
+		<w pos="Np">Hp</w>
+		<w pos="P">sao</w>
+		<w pos="V">cho</w>
+		<w pos="A">đúng</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="P">gì</w>
+		<w pos="V">gây</w>
+		<w pos="A">đau nhói</w>
+		<w pos="N">hông</w>
+		<w pos="V">phải</w>
+	</s>
+	<s>
+		<w pos="N">Nước tiểu</w>
+		<w pos="N">vàng</w>
+		<w pos="A">đậm</w>
+		<w pos=",">,</w>
+		<w pos="A">buốt</w>
+		<w pos="V">kèm</w>
+		<w pos="V">đau</w>
+		<w pos="A">bụng dưới</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">sỏi</w>
+		<w pos="N">thận</w>
+	</s>
+	<s>
+		<w pos="V">Đi ngoài</w>
+		<w pos="N">khó khăn</w>
+		<w pos=",">,</w>
+		<w pos="N">phân</w>
+		<w pos="N">lỏng</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Nằm</w>
+		<w pos="A">lâu</w>
+		<w pos="V">gây</w>
+		<w pos="A">loét</w>
+		<w pos="N">lưng</w>
+		<w pos=",">,</w>
+		<w pos="N">suy dinh dưỡng</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="V">Ngừng</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chẹn</w>
+		<w pos="Np">Beta</w>
+		<w pos="CC">và</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">kháng</w>
+		<w pos="V">giáp</w>
+		<w pos="N">nhịp</w>
+		<w pos="N">tim</w>
+		<w pos="V">tăng</w>
+		<w pos="V">trở lại</w>
+	</s>
+	<s>
+		<w pos="Nc">Hở</w>
+		<w pos="N">van</w>
+		<w pos="M">3</w>
+		<w pos="N">lá</w>
+		<w pos="M">4/4</w>
+		<w pos="N">dạng</w>
+		<w pos="N">ebstein</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="N">Dị ứng</w>
+		<w pos="E">với</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">suy</w>
+		<w pos="N">tim</w>
+		<w pos="N">độ</w>
+		<w pos="M">3</w>
+		<w pos=",">,</w>
+		<w pos="V">ứ</w>
+		<w pos="N">dịch</w>
+		<w pos="E">ở</w>
+		<w pos="N">phổi</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">mổ</w>
+		<w pos="R">được</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Mắt</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụt</w>
+		<w pos="N">lẹo</w>
+		<w pos=",">,</w>
+		<w pos="N">ghèn</w>
+		<w pos="V">có</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="Np">Nhờ Alo</w>
+		<w pos="Np">Bacsi</w>
+		<w pos="V">giới thiệu</w>
+		<w pos="V">giúp</w>
+		<w pos="N">em</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">mọc</w>
+		<w pos="N">tóc</w>
+		<w pos="E">cho</w>
+		<w pos="N">người</w>
+		<w pos="A">lớn tuổi</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">hóa</w>
+		<w pos=",">,</w>
+		<w pos="N">xạ trị</w>
+		<w pos="X">vì sao</w>
+		<w pos="R">không</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="E">để</w>
+		<w pos="V">hạn chế</w>
+		<w pos="N">tế bào</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="M">Ngứa</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="N">tiêu chảy</w>
+		<w pos="V">kèm</w>
+		<w pos="N">nhiệt</w>
+		<w pos="N">miệng</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="N">Mắt</w>
+		<w pos="A">mờ</w>
+		<w pos="V">kèm</w>
+		<w pos="N">ngứa</w>
+		<w pos="E">sau</w>
+		<w pos="V">mổ</w>
+		<w pos="N">cận thị</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">lưỡi gà</w>
+		<w pos="V">nổi</w>
+		<w pos="A">u</w>
+		<w pos="A">bất thường</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">vòm</w>
+		<w pos="N">họng</w>
+	</s>
+	<s>
+		<w pos="V">Mang</w>
+		<w pos="N">thai</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">tháo</w>
+		<w pos="N">vòng</w>
+		<w pos="CC">và</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chống</w>
+		<w pos="N">viêm</w>
+		<w pos="V">có</w>
+		<w pos="V">gây</w>
+		<w pos="N">dị tật</w>
+	</s>
+	<s>
+		<w pos="N">Mắt</w>
+		<w pos="P">tôi</w>
+		<w pos="V">bị</w>
+		<w pos="V">giảm</w>
+		<w pos="N">thị lực</w>
+		<w pos="E">do</w>
+		<w pos="N">lồi</w>
+		<w pos="N">võng mạc</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">đốt</w>
+		<w pos="V">sùi</w>
+		<w pos="N">mào gà</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">truyền</w>
+		<w pos="N">dịch</w>
+		<w pos="N">kháng</w>
+		<w pos="N">khuẩn</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ</w>
+		<w pos="N">cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau đầu</w>
+		<w pos="V">kéo dài</w>
+		<w pos="V">kèm</w>
+		<w pos="E">tức</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="A">tê</w>
+		<w pos="V">nhức</w>
+		<w pos="N">chân tay</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="A">khó</w>
+		<w pos="V">đi ngoài</w>
+		<w pos=",">,</w>
+		<w pos="N">nguyên nhân</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="N">Tai</w>
+		<w pos="N">bé</w>
+		<w pos="V">chảy</w>
+		<w pos="N">nước</w>
+		<w pos=",">,</w>
+		<w pos="N">dịch</w>
+		<w pos="N">vàng</w>
+		<w pos="A">hôi</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="V">viêm</w>
+		<w pos="N">tai</w>
+		<w pos="E">giữa</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">da</w>
+		<w pos="N">cơ địa</w>
+		<w pos=",">,</w>
+		<w pos="V">bôi</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mẩn</w>
+		<w pos="A">đỏ</w>
+	</s>
+	<s>
+		<w pos="N">Thuốc</w>
+		<w pos="A">nhỏ</w>
+		<w pos="N">mắt</w>
+		<w pos="Np">Neocin</w>
+		<w pos="V">có</w>
+		<w pos="A">nhỏ</w>
+		<w pos="N">mũi</w>
+		<w pos="E">cho</w>
+		<w pos="N">trẻ</w>
+		<w pos="V">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">đi ngoài</w>
+		<w pos="N">phân</w>
+		<w pos="N">lỏng</w>
+		<w pos=",">,</w>
+		<w pos="E">sau</w>
+		<w pos="N">tai</w>
+		<w pos="CC">và</w>
+		<w pos="N">lưng</w>
+		<w pos="V">nổi</w>
+		<w pos="N">chấm</w>
+		<w pos="A">đỏ</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="N">nốt</w>
+		<w pos="E">trong</w>
+		<w pos="N">họng</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="N">Tuổi</w>
+		<w pos="A">dậy thì</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="E">để</w>
+		<w pos="V">phát triển</w>
+		<w pos="N">chiều cao</w>
+		<w pos="A">tối ưu</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">phơi</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+		<w pos="A">muộn</w>
+		<w pos="M">10</w>
+		<w pos="Nu">phút</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="A">Hôi</w>
+		<w pos="N">miệng</w>
+		<w pos=",">,</w>
+		<w pos="A">trắng</w>
+		<w pos="N">lưỡi gà</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">trào</w>
+		<w pos="A">ngược</w>
+		<w pos="N">dạ dày</w>
+		<w pos="A">thực quản</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="V">ho</w>
+		<w pos="V">kéo dài</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="V">thắt</w>
+		<w pos="N">ngực</w>
+		<w pos="N">khi</w>
+		<w pos="V">hít</w>
+		<w pos="V">thở</w>
+		<w pos="A">sâu</w>
+	</s>
+	<s>
+		<w pos="C">Hay</w>
+		<w pos="A">nổi cáu</w>
+		<w pos=",">,</w>
+		<w pos="R">không</w>
+		<w pos="V">muốn</w>
+		<w pos="V">giao tiếp</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">trầm cảm</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">giảm</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="V">đau</w>
+		<w pos="N">bụng</w>
+		<w pos="V">vào</w>
+		<w pos="N">buổi sáng</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="V">tức</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="N">ngực</w>
+		<w pos="N">khi</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">về</w>
+		<w pos="N">Việt Nam</w>
+		<w pos="V">điều trị</w>
+	</s>
+	<s>
+		<w pos="V">Sử dụng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">lợi tiểu</w>
+		<w pos="N">quai</w>
+		<w pos="N">thời gian</w>
+		<w pos="A">dài</w>
+		<w pos="V">gây</w>
+		<w pos="V">suy</w>
+		<w pos="N">thận</w>
+	</s>
+	<s>
+		<w pos="A">Nóng</w>
+		<w pos="N">người</w>
+		<w pos=",">,</w>
+		<w pos="C">tức</w>
+		<w pos="N">ngực</w>
+		<w pos="N">sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">tràn</w>
+		<w pos="N">khí</w>
+		<w pos="V">màng</w>
+		<w pos="N">phổi</w>
+	</s>
+	<s>
+		<w pos="R">Vẫn</w>
+		<w pos="V">ngứa</w>
+		<w pos="N">da</w>
+		<w pos="N">khi</w>
+		<w pos="R">đã</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">giun đũa</w>
+		<w pos="N">chó</w>
+		<w pos="M">5</w>
+		<w pos="N">đợt</w>
+	</s>
+	<s>
+		<w pos="N">Móng</w>
+		<w pos="N">tay không</w>
+		<w pos="V">có</w>
+		<w pos="N">hình</w>
+		<w pos="A">trăng khuyết</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">làm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="R">Không</w>
+		<w pos="V">kiểm soát</w>
+		<w pos="R">được</w>
+		<w pos="N">hành vi</w>
+		<w pos=",">,</w>
+		<w pos="V">thay đổi</w>
+		<w pos="N">tính nết</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">stress</w>
+	</s>
+	<s>
+		<w pos="V">Hôn</w>
+		<w pos="N">môi</w>
+		<w pos="V">có</w>
+		<w pos="V">lây</w>
+		<w pos="N">vi khuẩn</w>
+		<w pos="Np">HP</w>
+		<w pos="V">gây</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">dạ dày</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="V">khác gì</w>
+		<w pos="V">so</w>
+		<w pos="E">với</w>
+		<w pos="N">đau</w>
+		<w pos="V">bao tử</w>
+	</s>
+	<s>
+		<w pos="M">26</w>
+		<w pos="N">tuổi</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+		<w pos="N">răng</w>
+		<w pos="V">bị</w>
+		<w pos="V">lung lay</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">ngừa</w>
+		<w pos="A">dại</w>
+		<w pos="P">bao lâu</w>
+		<w pos="R">được</w>
+		<w pos="V">tập</w>
+		<w pos="N">gym</w>
+	</s>
+	<s>
+		<w pos="R">Vẫn</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mề đay</w>
+		<w pos=",">,</w>
+		<w pos="N">ngứa</w>
+		<w pos="N">sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">giun</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="V">Chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="V">ù</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">an thần</w>
+		<w pos="V">bị</w>
+		<w pos="V">thu hồi</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">mất ngủ</w>
+		<w pos=",">,</w>
+		<w pos="N">con</w>
+		<w pos="V">sợ</w>
+		<w pos="R">quá</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Kết quả</w>
+		<w pos="V">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="N">B</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="V">cho</w>
+		<w pos="V">thấy</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">tiến triển</w>
+		<w pos="R">không</w>
+		<w pos="A">tốt</w>
+	</s>
+	<s>
+		<w pos="A">Đắng</w>
+		<w pos="N">miệng</w>
+		<w pos="V">kèm</w>
+		<w pos="V">tiêu chảy</w>
+		<w pos="E">do</w>
+		<w pos="N">tác dụng</w>
+		<w pos="V">phụ</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="Np">Hp</w>
+	</s>
+	<s>
+		<w pos="N">Cục</w>
+		<w pos="N">thịt</w>
+		<w pos="A">thừa</w>
+		<w pos="E">ở</w>
+		<w pos="N">hậu môn</w>
+		<w pos="N">sau</w>
+		<w pos="V">sinh</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">trĩ</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="N">máu</w>
+		<w pos="V">có</w>
+		<w pos="N">kháng thể</w>
+		<w pos="V">kháng</w>
+		<w pos="Np">HIV</w>
+		<w pos=",">,</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="P">sao</w>
+	</s>
+	<s>
+		<w pos="Np">Anti-HBs</w>
+		<w pos="A">dương tính</w>
+		<w pos="M">13.4</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="A">nặng</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Lưỡi</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="X">như vậy</w>
+		<w pos="V">là</w>
+		<w pos="V">bị</w>
+		<w pos="P">sao</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="V">bị</w>
+		<w pos="V">phỏng</w>
+		<w pos="V">rạ</w>
+		<w pos="R">không</w>
+		<w pos="C">nên</w>
+		<w pos="V">chọc</w>
+		<w pos="V">mụn</w>
+		<w pos="N">nước</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="N">cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="A">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="L">Mỗi</w>
+		<w pos="N">khi</w>
+		<w pos="V">tập trung</w>
+		<w pos="V">suy nghĩ</w>
+		<w pos="V">là</w>
+		<w pos="N">mắt</w>
+		<w pos="N">em</w>
+		<w pos="A">tối sầm</w>
+		<w pos=",">,</w>
+		<w pos="V">muốn</w>
+		<w pos="V">xỉu</w>
+	</s>
+	<s>
+		<w pos="V">Đi ngoài</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">lần</w>
+		<w pos="E">trong</w>
+		<w pos="N">ngày</w>
+		<w pos=",">,</w>
+		<w pos="N">nước</w>
+		<w pos="N">vàng</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">cắt</w>
+		<w pos="N">ruột non</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">bột</w>
+		<w pos="N">nghệ</w>
+		<w pos="N">thế nào</w>
+		<w pos="V">cho</w>
+		<w pos="A">đúng</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="A">chung</w>
+		<w pos="N">thức ăn</w>
+		<w pos="E">với</w>
+		<w pos="N">mèo</w>
+		<w pos="V">có</w>
+		<w pos="V">bị</w>
+		<w pos="V">lây nhiễm</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="V">Mất ngủ</w>
+		<w pos="V">gây</w>
+		<w pos="A">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="A">tê</w>
+		<w pos="N">tay chân</w>
+		<w pos=",">,</w>
+		<w pos="V">tức</w>
+		<w pos="N">ngực</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="N">mặt</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mẩn</w>
+		<w pos="N">ngứa</w>
+		<w pos=",">,</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">myspa</w>
+		<w pos="R">được</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">bướu cổ</w>
+		<w pos="E">bằng</w>
+		<w pos="N">sóng</w>
+		<w pos="A">cao tần</w>
+		<w pos="P">bao nhiêu</w>
+		<w pos="N">lần</w>
+		<w pos="R">mới</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">sanh</w>
+		<w pos="V">mổ</w>
+		<w pos="V">phải</w>
+		<w pos="V">thông</w>
+		<w pos="N">tiểu</w>
+	</s>
+	<s>
+		<w pos="N">Chân tay</w>
+		<w pos="A">đau nhức</w>
+		<w pos="C">như</w>
+		<w pos="N">kiến</w>
+		<w pos="N">bò</w>
+		<w pos="E">trong</w>
+		<w pos="N">xương</w>
+		<w pos=",">,</w>
+		<w pos="N">nguyên nhân</w>
+		<w pos="V">là</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="A">Liệt</w>
+		<w pos="N">thần kinh</w>
+		<w pos="M">VII</w>
+		<w pos="N">ngoại</w>
+		<w pos="N">biên</w>
+		<w pos="V">gây</w>
+		<w pos="V">méo</w>
+		<w pos="N">miệng</w>
+		<w pos="A">lâu</w>
+		<w pos="N">năm</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">chân</w>
+		<w pos="V">phát</w>
+		<w pos="R">ra</w>
+		<w pos="N">tiếng</w>
+		<w pos="V">kêu</w>
+		<w pos="E">sau</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">dây</w>
+		<w pos="V">chằng chéo</w>
+		<w pos="E">trước</w>
+	</s>
+	<s>
+		<w pos="V">Rửa</w>
+		<w pos="N">tai</w>
+		<w pos="E">bằng</w>
+		<w pos="N">áp suất</w>
+		<w pos="A">cao</w>
+		<w pos="V">gây</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">thần kinh ngoại biên</w>
+	</s>
+	<s>
+		<w pos="A">Tím tái</w>
+		<w pos="N">khi</w>
+		<w pos="V">gây mê</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="R">có thể</w>
+		<w pos="V">vá</w>
+		<w pos="N">hàm ếch</w>
+	</s>
+	<s>
+		<w pos="R">Không</w>
+		<w pos="V">đeo</w>
+		<w pos="N">kính</w>
+		<w pos="N">khi</w>
+		<w pos="V">cận thị</w>
+		<w pos="V">làm</w>
+		<w pos="N">tròng đen</w>
+		<w pos="A">nhỏ</w>
+		<w pos="R">lại</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">ho</w>
+		<w pos=",">,</w>
+		<w pos="V">đàm</w>
+		<w pos="E">trong</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">lao</w>
+		<w pos="N">kháng</w>
+		<w pos="N">thuốc</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">móng</w>
+		<w pos="N">chân</w>
+		<w pos=",">,</w>
+		<w pos="V">bọng</w>
+		<w pos="N">nước</w>
+		<w pos="E">do</w>
+		<w pos="V">mang</w>
+		<w pos="N">giày</w>
+		<w pos="A">chật</w>
+		<w pos="CC">và</w>
+		<w pos="V">đi lại</w>
+		<w pos="A">nhiều</w>
+	</s>
+	<s>
+		<w pos="A">Cao</w>
+		<w pos="N">huyết áp</w>
+		<w pos=",">,</w>
+		<w pos="N">nang</w>
+		<w pos="N">thận</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">dùng</w>
+		<w pos="N">tảo</w>
+		<w pos="V">xoắn</w>
+	</s>
+	<s>
+		<w pos="V">Gây mê</w>
+		<w pos="E">cho</w>
+		<w pos="N">trẻ</w>
+		<w pos="N">khi</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">CT</w>
+		<w pos="N">phổi</w>
+		<w pos=",">,</w>
+		<w pos="V">liệu</w>
+		<w pos="V">có</w>
+		<w pos="N">an toàn</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos="N">gối</w>
+		<w pos=",">,</w>
+		<w pos="N">chân</w>
+		<w pos="V">kêu</w>
+		<w pos="A">lốp cốp</w>
+		<w pos="E">do</w>
+		<w pos="A">thiếu</w>
+		<w pos="N">chất</w>
+		<w pos="N">nhờn</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="A">lậu</w>
+		<w pos="CC">và</w>
+		<w pos="Np">Chlamydia</w>
+		<w pos="A">âm tính</w>
+		<w pos="E">sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">kháng sinh</w>
+	</s>
+	<s>
+		<w pos="V">Hết</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">hen</w>
+		<w pos="A">mạn tính</w>
+		<w pos=",">,</w>
+		<w pos="V">ngừng</w>
+		<w pos="N">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">được</w>
+		<w pos="V">tiếp tục</w>
+		<w pos="V">điều trị</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="E">để</w>
+		<w pos="N">bác sĩ</w>
+		<w pos="V">kê</w>
+		<w pos="N">đơn</w>
+		<w pos="A">dài</w>
+		<w pos="N">ngày</w>
+		<w pos="A">hơn</w>
+		<w pos=",">,</w>
+		<w pos="V">giảm</w>
+		<w pos="N">thời gian</w>
+		<w pos="V">đi lại</w>
+	</s>
+	<s>
+		<w pos="N">Tay</w>
+		<w pos="V">cử động</w>
+		<w pos="A">tốt</w>
+		<w pos="E">sau</w>
+		<w pos="V">gãy</w>
+		<w pos="N">xương</w>
+		<w pos=",">,</w>
+		<w pos="R">có thể</w>
+		<w pos="V">tháo</w>
+		<w pos="N">bột</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">dùng</w>
+		<w pos="N">cồn</w>
+		<w pos="M">90</w>
+		<w pos="N">độ</w>
+		<w pos="E">để</w>
+		<w pos="V">vệ sinh</w>
+		<w pos="N">tai</w>
+		<w pos="A">thường xuyên</w>
+	</s>
+	<s>
+		<w pos="A">Nặng</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="E">sau</w>
+		<w pos="N">gáy</w>
+		<w pos=",">,</w>
+		<w pos="C">tức</w>
+		<w pos="N">ngực</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">xoang</w>
+		<w pos="V">mạn</w>
+	</s>
+	<s>
+		<w pos="V">Mong</w>
+		<w pos="Np">BS</w>
+		<w pos="E">cho</w>
+		<w pos="N">lời</w>
+		<w pos="V">khuyên</w>
+		<w pos="E">với</w>
+		<w pos="N">người</w>
+		<w pos="R">mới</w>
+		<w pos="V">phát hiện</w>
+		<w pos="N">tiểu đường</w>
+	</s>
+	<s>
+		<w pos="N">Ngứa</w>
+		<w pos="V">kèm</w>
+		<w pos="A">đỏ</w>
+		<w pos="N">mũi</w>
+		<w pos=",">,</w>
+		<w pos="V">thở</w>
+		<w pos="A">khò khè</w>
+		<w pos=",">,</w>
+		<w pos="N">cháu</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm gì</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bà</w>
+		<w pos="V">bầu</w>
+		<w pos="V">đi</w>
+		<w pos="V">tắm</w>
+		<w pos="N">biển</w>
+		<w pos="V">cần</w>
+		<w pos="V">lưu ý</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Trào</w>
+		<w pos="A">ngược</w>
+		<w pos="N">dạ dày</w>
+		<w pos="A">lâu</w>
+		<w pos="N">năm</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="E">bằng</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="Np">Nissen</w>
+		<w pos="E">ở</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="M">Ba</w>
+		<w pos="N">em</w>
+		<w pos="V">mất ngủ</w>
+		<w pos="N">khi</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">đau</w>
+		<w pos="N">lưng</w>
+		<w pos=",">,</w>
+		<w pos="V">mong</w>
+		<w pos="Np">BS</w>
+		<w pos="E">cho</w>
+		<w pos="N">lời</w>
+		<w pos="V">khuyên</w>
+	</s>
+	<s>
+		<w pos="Nc">Trật</w>
+		<w pos="N">khớp</w>
+		<w pos="V">quay</w>
+		<w pos="N">trụ</w>
+		<w pos="N">dưới</w>
+		<w pos=",">,</w>
+		<w pos="N">chốt</w>
+		<w pos="N">đinh</w>
+		<w pos="CC">và</w>
+		<w pos="N">tái tạo</w>
+		<w pos="N">dây chằng</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">vô ích</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="V">bơi</w>
+		<w pos="V">có</w>
+		<w pos="V">làm</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="E">đến</w>
+		<w pos="N">phổi</w>
+	</s>
+	<s>
+		<w pos="N">Sức khỏe</w>
+		<w pos="V">giảm sút</w>
+		<w pos="N">khi</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Cordarone</w>
+		<w pos="M">0.2g</w>
+		<w pos="V">trị</w>
+		<w pos="N">ngoại</w>
+		<w pos="N">tâm</w>
+		<w pos="V">thu</w>
+		<w pos="Z">thất</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">mỡ</w>
+		<w pos="E">trong</w>
+		<w pos="N">máu</w>
+		<w pos="A">thấp</w>
+		<w pos="C">nhưng</w>
+		<w pos="V">bị</w>
+		<w pos="V">xơ vữa</w>
+		<w pos="N">động mạch vành</w>
+	</s>
+	<s>
+		<w pos="Np">Uống Ethambutol</w>
+		<w pos="CC">và</w>
+		<w pos="Np">Isoniazid</w>
+		<w pos="V">trị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="V">thấy</w>
+		<w pos="V">sốt</w>
+		<w pos="A">cao</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="E">tức</w>
+		<w pos="N">ngực</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="R">chỉ</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">tiêm</w>
+		<w pos="V">làm</w>
+		<w pos="V">giảm</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="N">Trường hợp</w>
+		<w pos="N">con em</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="V">mổ</w>
+		<w pos="N">tim</w>
+		<w pos="R">không</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="Np">Hiệp</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="Np">Ebstein</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">là</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">tim</w>
+		<w pos="N">bẩm sinh</w>
+		<w pos="A">nặng</w>
+	</s>
+	<s>
+		<w pos="V">Tiêm</w>
+		<w pos="A">trễ</w>
+		<w pos="V">streptomycin</w>
+		<w pos="M">một</w>
+		<w pos="N">ngày</w>
+		<w pos="V">có</w>
+		<w pos="V">dẫn</w>
+		<w pos="E">đến</w>
+		<w pos="V">lao</w>
+		<w pos="N">đa</w>
+		<w pos="V">kháng</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="Np">AFB</w>
+		<w pos="M">(</w>
+		<w pos="-">-</w>
+		<w pos="M">)</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">dùng</w>
+		<w pos="V">thêm</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">bảo vệ</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos="N">Chương trình</w>
+		<w pos="V">mổ</w>
+		<w pos="N">tim</w>
+		<w pos="V">miễn phí</w>
+		<w pos="E">tại</w>
+		<w pos="Np">BV</w>
+		<w pos="Np">Tim Tâm Đức</w>
+	</s>
+	<s>
+		<w pos="P">Tôi</w>
+		<w pos="V">bị</w>
+		<w pos="T">hở</w>
+		<w pos="N">van</w>
+		<w pos="M">2</w>
+		<w pos="N">lá</w>
+		<w pos="CC">và</w>
+		<w pos="M">3</w>
+		<w pos="N">lá</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Corneil</w>
+		<w pos="M">2.5</w>
+		<w pos="N">mg</w>
+	</s>
+	<s>
+		<w pos="N">Phổi</w>
+		<w pos="V">có</w>
+		<w pos="N">vết</w>
+		<w pos="A">mờ</w>
+		<w pos="E">sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="V">gây</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+		<w pos="N">sau này</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="CC">và</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">lao phổi</w>
+		<w pos="E">vào</w>
+		<w pos="N">thời điểm</w>
+		<w pos="N">nào là</w>
+		<w pos="A">tốt</w>
+		<w pos="R">nhất</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">lấy</w>
+		<w pos="R">lại</w>
+		<w pos="N">giọng</w>
+		<w pos="A">sau</w>
+		<w pos="V">thay</w>
+		<w pos="N">van</w>
+		<w pos="N">động mạch</w>
+		<w pos="N">chủ</w>
+		<w pos="N">cơ học</w>
+	</s>
+	<s>
+		<w pos="Np">Tại Việt Nam</w>
+		<w pos="R">đã</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">được</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">block</w>
+		<w pos="N">nhánh</w>
+		<w pos="N">trái</w>
+		<w pos="A">hoàn toàn</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="N">bao lâu</w>
+		<w pos="V">cần</w>
+		<w pos="A">tái</w>
+		<w pos="V">khám</w>
+	</s>
+	<s>
+		<w pos="V">Tràn</w>
+		<w pos="N">dịch</w>
+		<w pos="N">màng</w>
+		<w pos="N">phổi</w>
+		<w pos="E">do</w>
+		<w pos="N">lao</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">sinh hoạt</w>
+		<w pos="A">chung</w>
+		<w pos="E">với</w>
+		<w pos="L">mọi</w>
+		<w pos="N">người</w>
+	</s>
+	<s>
+		<w pos="Nc">Ngứa</w>
+		<w pos="N">bìu</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">thắt lưng</w>
+		<w pos=",">,</w>
+		<w pos="N">tiểu</w>
+		<w pos="A">buốt</w>
+		<w pos=",">,</w>
+		<w pos="V">khám</w>
+		<w pos="R">không</w>
+		<w pos="V">ra</w>
+		<w pos="N">bệnh</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="C">tức</w>
+		<w pos="V">bụng dưới</w>
+		<w pos="N">khi</w>
+		<w pos="V">“</w>
+		<w pos="V">gần gũi</w>
+		<w pos="N">”</w>
+		<w pos=",">,</w>
+		<w pos="N">nước tiểu</w>
+		<w pos="A">đục</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="P">Vì sao</w>
+		<w pos="V">“</w>
+		<w pos="V">yêu</w>
+		<w pos="N">”</w>
+		<w pos="N">bên</w>
+		<w pos="N">ngoài</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">dương tính</w>
+		<w pos="E">với</w>
+		<w pos="Np">Chlamydia</w>
+	</s>
+	<s>
+		<w pos="V">Bị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="Np">AFB</w>
+		<w pos="M">(</w>
+		<w pos="-">-</w>
+		<w pos="M">)</w>
+		<w pos=",">,</w>
+		<w pos="N">khả năng</w>
+		<w pos="V">lây nhiễm</w>
+		<w pos="E">cho</w>
+		<w pos="N">cộng đồng</w>
+		<w pos="A">cao</w>
+	</s>
+	<s>
+		<w pos="V">Chụp</w>
+		<w pos="Np">X-Quang</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">tổn thương</w>
+		<w pos="N">phổi</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">lao</w>
+		<w pos="V">tiến triển</w>
+		<w pos="A">tốt</w>
+		<w pos="R">hơn</w>
+		<w pos="R">chưa</w>
+	</s>
+	<s>
+		<w pos="A">Lòng trắng</w>
+		<w pos="N">mắt</w>
+		<w pos="N">bé</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="A">trong suốt</w>
+		<w pos=",">,</w>
+		<w pos="V">liệu</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="V">bị</w>
+		<w pos="V">tiêu chảy</w>
+		<w pos="V">gây</w>
+		<w pos="A">rát</w>
+		<w pos="M">“</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos="A">”</w>
+		<w pos=",">,</w>
+		<w pos="V">bôi</w>
+		<w pos="Np">Bequantene</w>
+		<w pos="V">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">bị</w>
+		<w pos="V">tiêu chảy</w>
+		<w pos="V">kéo dài</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ con</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mẩn</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">ngứa</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="Np">Uống Sertraline</w>
+		<w pos="CC">và</w>
+		<w pos="Np">Oleanzapitab</w>
+		<w pos="V">gây</w>
+		<w pos="R">ra</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">mồ hôi</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">xoang</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">răng</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">làm</w>
+		<w pos="A">nặng</w>
+		<w pos="V">thêm</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="R">Đang</w>
+		<w pos="V">uống</w>
+		<w pos="N">nghệ</w>
+		<w pos="N">test</w>
+		<w pos="Np">Hp</w>
+		<w pos="V">có</w>
+		<w pos="A">chính xác</w>
+	</s>
+	<s>
+		<w pos="N">Tay</w>
+		<w pos="A">tê</w>
+		<w pos="V">nhức</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos="V">dậy</w>
+		<w pos=",">,</w>
+		<w pos="N">nguyên nhân</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên tắc</w>
+		<w pos="V">điều trị</w>
+		<w pos="CC">và</w>
+		<w pos="V">phòng ngừa</w>
+		<w pos="N">viêm</w>
+		<w pos="N">mũi</w>
+		<w pos="N">dị ứng</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="Np">PT-INR</w>
+		<w pos="CC">và</w>
+		<w pos="V">kiểm tra</w>
+		<w pos="N">axit</w>
+		<w pos="N">uric</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">nhịn</w>
+		<w pos="V">ăn</w>
+		<w pos="N">sáng</w>
+	</s>
+	<s>
+		<w pos="V">Đứt</w>
+		<w pos="R">chỉ</w>
+		<w pos="N">khâu</w>
+		<w pos="E">vào</w>
+		<w pos="N">cơ thể</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">vết</w>
+		<w pos="V">mổ</w>
+	</s>
+	<s>
+		<w pos="Np">U</w>
+		<w pos="E">ở</w>
+		<w pos="N">vành</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="N">cách</w>
+		<w pos="V">phòng ngừa</w>
+		<w pos="V">say</w>
+		<w pos="N">cà phê</w>
+	</s>
+	<s>
+		<w pos="N">Vi khuẩn</w>
+		<w pos="Np">Hp</w>
+		<w pos="V">có</w>
+		<w pos="V">chết</w>
+		<w pos="N">khi</w>
+		<w pos="V">đun nấu</w>
+		<w pos="C">hay</w>
+		<w pos="V">giặt</w>
+		<w pos="V">rửa</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">dọc</w>
+		<w pos="N">xương</w>
+		<w pos="N">sườn</w>
+		<w pos=",">,</w>
+		<w pos="V">hít</w>
+		<w pos="V">thở</w>
+		<w pos="A">khó khăn</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="Np">BS</w>
+		<w pos="R">không</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">túi</w>
+		<w pos="V">thừa</w>
+		<w pos="N">đại tràng</w>
+		<w pos="E">cho</w>
+		<w pos="P">tôi</w>
+	</s>
+	<s>
+		<w pos="N">Phương pháp</w>
+		<w pos="CC">và</w>
+		<w pos="N">thời gian</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">giun</w>
+		<w pos="N">lươn</w>
+	</s>
+	<s>
+		<w pos="N">Cơ địa</w>
+		<w pos="N">sẹo</w>
+		<w pos="N">lồi</w>
+		<w pos="V">có</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="E">đến</w>
+		<w pos="N">việc</w>
+		<w pos="V">trồng răng</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="N">cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">hạch</w>
+		<w pos="E">ở</w>
+		<w pos="N">mông</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">khi</w>
+		<w pos="V">sờ</w>
+		<w pos="N">nắn</w>
+	</s>
+	<s>
+		<w pos="N">Thủy đậu</w>
+		<w pos="V">nổi</w>
+		<w pos="E">ở</w>
+		<w pos="N">dương vật</w>
+		<w pos="V">gây</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">khả năng</w>
+		<w pos="V">sinh sản</w>
+	</s>
+	<s>
+		<w pos="V">Phù</w>
+		<w pos="M">một</w>
+		<w pos="N">bên</w>
+		<w pos="N">mặt</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">gan</w>
+	</s>
+	<s>
+		<w pos="Np">Ho</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos="E">về</w>
+		<w pos="N">đêm</w>
+		<w pos=",">,</w>
+		<w pos="V">vướng</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">phổi</w>
+		<w pos="R">không</w>
+		<w pos="V">đỡ</w>
+	</s>
+	<s>
+		<w pos="M">Ợ</w>
+		<w pos="N">chua</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="V">đi ngoài</w>
+		<w pos="N">phân</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">vấn đề</w>
+		<w pos="V">về</w>
+		<w pos="N">dạ dày</w>
+	</s>
+	<s>
+		<w pos="Np">Ngứa</w>
+		<w pos="V">chân tay</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">đốm</w>
+		<w pos="A">đỏ</w>
+		<w pos="E">do</w>
+		<w pos="N">dị ứng</w>
+		<w pos="V">canh</w>
+		<w pos="N">chua</w>
+		<w pos="N">cá lóc</w>
+	</s>
+	<s>
+		<w pos="Np">Polyp</w>
+		<w pos="A">túi mật</w>
+		<w pos=",">,</w>
+		<w pos="N">dịch</w>
+		<w pos="E">ở</w>
+		<w pos="Np">Douglas</w>
+		<w pos="...">...</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">mẹ</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="N">Kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="R">đã</w>
+		<w pos="V">bị</w>
+		<w pos="V">viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">B</w>
+		<w pos="V">phải</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Thai</w>
+		<w pos="M">4</w>
+		<w pos="N">tuần</w>
+		<w pos="V">bị</w>
+		<w pos="V">ra</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Ngón tay</w>
+		<w pos="Nc">cái</w>
+		<w pos="V">bị</w>
+		<w pos="V">lột</w>
+		<w pos="N">da</w>
+		<w pos="A">liên miên</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="Np">Ngứa</w>
+		<w pos="A">lâu</w>
+		<w pos="N">năm</w>
+		<w pos=",">,</w>
+		<w pos="V">bôi</w>
+		<w pos="N">thuốc</w>
+		<w pos="M">7</w>
+		<w pos="N">màu</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+		<w pos="E">do</w>
+		<w pos="N">mụn</w>
+		<w pos="C">hay</w>
+		<w pos="Nc">nấm</w>
+	</s>
+	<s>
+		<w pos="V">Vã</w>
+		<w pos="N">mồ hôi</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos=",">,</w>
+		<w pos="N">tác dụng</w>
+		<w pos="V">phụ</w>
+		<w pos="E">của</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="V">rối loạn</w>
+		<w pos="V">lo âu</w>
+		<w pos="N">lan tỏa</w>
+	</s>
+	<s>
+		<w pos="X">Tại sao</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">hạ</w>
+		<w pos="N">đường huyết</w>
+		<w pos="R">không</w>
+		<w pos="V">được</w>
+		<w pos="V">ăn</w>
+		<w pos="A">bí đỏ</w>
+	</s>
+	<s>
+		<w pos="N">Lưỡi</w>
+		<w pos="A">đen</w>
+		<w pos="N">khi</w>
+		<w pos="V">ăn</w>
+		<w pos="N">trái cây</w>
+		<w pos="Nc">vị</w>
+		<w pos="N">chát</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="V">Đau nhức</w>
+		<w pos="N">chân</w>
+		<w pos="R">từng</w>
+		<w pos="V">bị</w>
+		<w pos="V">gãy</w>
+		<w pos=",">,</w>
+		<w pos="N">sẹo</w>
+		<w pos="V">mổ</w>
+		<w pos="A">rách</w>
+		<w pos="R">chưa</w>
+		<w pos="A">lành</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="N">Tay chân</w>
+		<w pos="V">đổ</w>
+		<w pos="N">mồ hôi</w>
+		<w pos=",">,</w>
+		<w pos="N">cảm giác</w>
+		<w pos="A">sưng</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="E">ở</w>
+		<w pos="P">đâu</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="A">Nhức</w>
+		<w pos="N">nửa</w>
+		<w pos="N">đầu</w>
+		<w pos="V">lan</w>
+		<w pos="V">sang</w>
+		<w pos="N">trán</w>
+		<w pos=",">,</w>
+		<w pos="N">mũi</w>
+		<w pos="V">kèm</w>
+		<w pos="V">đau</w>
+		<w pos="N">vai</w>
+		<w pos="V">gáy</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">xoang</w>
+	</s>
+	<s>
+		<w pos="V">Hạch</w>
+		<w pos="A">cổ</w>
+		<w pos="V">gây</w>
+		<w pos="A">buốt</w>
+		<w pos=",">,</w>
+		<w pos="N">cổ họng</w>
+		<w pos="A">sưng</w>
+		<w pos="A">tấy</w>
+		<w pos=",">,</w>
+		<w pos="V">biểu hiện</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="N">Xịt</w>
+		<w pos="Np">AL</w>
+		<w pos="V">trị</w>
+		<w pos="N">sùi</w>
+		<w pos="N">mào gà</w>
+		<w pos="M">2</w>
+		<w pos="N">lần</w>
+		<w pos="M">1</w>
+		<w pos="N">tuần</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="P">Tôi</w>
+		<w pos="R">đã</w>
+		<w pos="V">nhổ</w>
+		<w pos="N">phần</w>
+		<w pos="N">móng</w>
+		<w pos="V">bị</w>
+		<w pos="V">quặp</w>
+		<w pos=",">,</w>
+		<w pos="V">liệu</w>
+		<w pos="P">nó</w>
+		<w pos="V">có</w>
+		<w pos="V">mọc</w>
+		<w pos="R">mới</w>
+	</s>
+	<s>
+		<w pos="N">Tuổi</w>
+		<w pos="N">dậy thì</w>
+		<w pos="V">bị</w>
+		<w pos="V">viêm</w>
+		<w pos="V">VA</w>
+		<w pos=",">,</w>
+		<w pos="V">liệu</w>
+		<w pos="N">cháu</w>
+		<w pos="V">có</w>
+		<w pos="V">bị</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="V">Mất</w>
+		<w pos="N">mùi</w>
+		<w pos="C">dù</w>
+		<w pos="R">đã</w>
+		<w pos="V">xuất viện</w>
+		<w pos="M">6</w>
+		<w pos="N">tháng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">khứu giác</w>
+		<w pos="V">bị</w>
+		<w pos="A">liệt</w>
+	</s>
+	<s>
+		<w pos="Np">Amidan</w>
+		<w pos="Nc">khẩu</w>
+		<w pos="N">cái</w>
+		<w pos="V">trồi</w>
+		<w pos="R">lên</w>
+		<w pos="N">hình tròn</w>
+		<w pos=",">,</w>
+		<w pos="N">bề mặt</w>
+		<w pos="A">trơn</w>
+		<w pos="A">nhẵn</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="N">Chi phí</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">đông</w>
+		<w pos="N">mạch máu</w>
+		<w pos="N">não</w>
+	</s>
+	<s>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+		<w pos=",">,</w>
+		<w pos="N">tình trạng</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="V">Cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">lưỡi</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="V">lao</w>
+		<w pos="P">mô</w>
+		<w pos="V">mê</w>
+		<w pos="M">̀</w>
+		<w pos="Nu">m</w>
+		<w pos="V">dươ</w>
+		<w pos="M">́</w>
+		<w pos="N">i</w>
+		<w pos="N">da</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">có</w>
+		<w pos="V">khỏi</w>
+		<w pos="R">hẳn</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">thắt lưng</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">đi</w>
+		<w pos="V">khám</w>
+		<w pos="E">ở</w>
+		<w pos="P">đâu</w>
+		<w pos="E">tại</w>
+		<w pos="Np">TPHCM</w>
+	</s>
+	<s>
+		<w pos="A">Đầy</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="V">khó chịu</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos="V">dậy</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Sau</w>
+		<w pos="V">gãy</w>
+		<w pos="V">đốt</w>
+		<w pos="N">ngón tay</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">cử động</w>
+		<w pos="R">lại</w>
+		<w pos="C">như</w>
+		<w pos="A">bình thường</w>
+	</s>
+	<s>
+		<w pos="N">Con</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm gì</w>
+		<w pos="N">khi</w>
+		<w pos="V">bị</w>
+		<w pos="V">nôn</w>
+		<w pos="V">ói</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc nam</w>
+		<w pos="V">hết</w>
+		<w pos="N">phù</w>
+		<w pos="N">toàn thân</w>
+		<w pos="C">nhưng</w>
+		<w pos="N">người</w>
+		<w pos="V">gầy gò</w>
+		<w pos=",">,</w>
+		<w pos="V">phát</w>
+		<w pos="N">nhiệt</w>
+	</s>
+	<s>
+		<w pos="N">Người</w>
+		<w pos="A">khó</w>
+		<w pos="V">lên</w>
+		<w pos="V">ký</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">kiểm tra</w>
+		<w pos="L">những</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="V">làm</w>
+		<w pos="N">người</w>
+		<w pos="C">hay</w>
+		<w pos="A">đói</w>
+		<w pos=",">,</w>
+		<w pos="A">mau</w>
+		<w pos="A">no</w>
+		<w pos="V">kèm</w>
+		<w pos="V">tức</w>
+		<w pos="N">bụng</w>
+	</s>
+	<s>
+		<w pos="Np">Ngứa</w>
+		<w pos="E">do</w>
+		<w pos="V">ăn</w>
+		<w pos="N">cá</w>
+		<w pos=",">,</w>
+		<w pos="N">thịt</w>
+		<w pos="N">bò</w>
+		<w pos="C">hay</w>
+		<w pos="N">giun sán</w>
+		<w pos="V">tái phát</w>
+	</s>
+	<s>
+		<w pos="V">Quên</w>
+		<w pos="V">kiểm tra</w>
+		<w pos="N">tình trạng</w>
+		<w pos="N">bao cao su</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="A">Khó</w>
+		<w pos="V">ngủ</w>
+		<w pos="E">vì</w>
+		<w pos="V">đau</w>
+		<w pos="E">tức</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="V">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">tim mạch</w>
+	</s>
+	<s>
+		<w pos="N">Gai</w>
+		<w pos="N">lưỡi</w>
+		<w pos="V">tưa</w>
+		<w pos="R">ra</w>
+		<w pos=",">,</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">cục</w>
+		<w pos="N">thịt</w>
+		<w pos="A">thừa</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">xã hội</w>
+	</s>
+	<s>
+		<w pos="N">Cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">nổi</w>
+		<w pos="V">mụn</w>
+		<w pos="N">nước</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos=",">,</w>
+		<w pos="V">ngứa</w>
+		<w pos="N">vùng</w>
+		<w pos="N">sinh dục</w>
+	</s>
+	<s>
+		<w pos="N">Kinh nguyệt</w>
+		<w pos="V">kéo dài</w>
+		<w pos=",">,</w>
+		<w pos="M">1</w>
+		<w pos="N">tháng</w>
+		<w pos="V">có</w>
+		<w pos="M">3</w>
+		<w pos="N">lần</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="P">sao</w>
+		<w pos="T">vậy</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">răng</w>
+		<w pos="V">có</w>
+		<w pos="N">màu</w>
+		<w pos="C">như</w>
+		<w pos="N">nước</w>
+		<w pos="V">vo</w>
+		<w pos="N">gạo</w>
+	</s>
+	<s>
+		<w pos="V">Tiếp xúc</w>
+		<w pos="E">với</w>
+		<w pos="N">máu</w>
+		<w pos="N">người</w>
+		<w pos="E">bằng</w>
+		<w pos="N">đầu</w>
+		<w pos="N">ngón tay</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">khả năng</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="N">Sổ mũi</w>
+		<w pos=",">,</w>
+		<w pos="V">đau</w>
+		<w pos="N">họng</w>
+		<w pos=",">,</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">đàm</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="V">thai nhi</w>
+	</s>
+	<s>
+		<w pos="A">Loét</w>
+		<w pos="N">miệng</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="N">quai hàm</w>
+		<w pos=",">,</w>
+		<w pos="A">nhói</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="A">u</w>
+		<w pos="A">lành</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="N">tháng</w>
+		<w pos="N">thứ</w>
+		<w pos="M">5</w>
+		<w pos=",">,</w>
+		<w pos="N">hôn</w>
+		<w pos="V">có</w>
+		<w pos="V">lây</w>
+		<w pos="E">cho</w>
+		<w pos="N">bạn gái</w>
+	</s>
+	<s>
+		<w pos="A">Nặng</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">chóng mặt</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos="V">dậy</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">viêm</w>
+		<w pos="N">mũi</w>
+		<w pos="N">xoang</w>
+		<w pos="V">mạn</w>
+	</s>
+	<s>
+		<w pos="N">Chó</w>
+		<w pos="V">liếm</w>
+		<w pos="E">vào</w>
+		<w pos="N">vết</w>
+		<w pos="V">nứt</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">bị</w>
+		<w pos="A">dại</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="N">tay chân</w>
+		<w pos="V">nổi</w>
+		<w pos="N">đốm</w>
+		<w pos="A">nhỏ</w>
+		<w pos=",">,</w>
+		<w pos="V">lan rộng</w>
+		<w pos=",">,</w>
+		<w pos="V">trị</w>
+		<w pos="V">có</w>
+		<w pos="V">khỏi</w>
+		<w pos="R">hẳn</w>
+	</s>
+	<s>
+		<w pos=""">"</w>
+		<w pos="N">Cậu</w>
+		<w pos="A">nhỏ</w>
+		<w pos=""">"</w>
+		<w pos="N">cương</w>
+		<w pos="A">cứng</w>
+		<w pos=",">,</w>
+		<w pos="V">xuất tinh</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="N">Thực phẩm</w>
+		<w pos="N">chức năng</w>
+		<w pos="V">làm</w>
+		<w pos="V">mất</w>
+		<w pos="N">tác dụng</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="N">sởi</w>
+		<w pos="-">-</w>
+		<w pos="N">quai bị</w>
+		<w pos="-">-</w>
+		<w pos="N">rubella</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">mũi</w>
+		<w pos="N">dị ứng</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="V">đến</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="N">Sau</w>
+		<w pos="V">mổ</w>
+		<w pos="N">ruột thừa</w>
+		<w pos="M">5</w>
+		<w pos="N">tháng</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">đau</w>
+		<w pos="A">âm ỉ</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="V">tụ</w>
+		<w pos="N">mủ</w>
+		<w pos="N">bên</w>
+		<w pos="E">trong</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">mắt</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Ofloxaxin</w>
+		<w pos="V">bị</w>
+		<w pos="N">dị ứng</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos="N">khi</w>
+		<w pos="V">vuốt</w>
+		<w pos="CC">hoặc</w>
+		<w pos="V">giựt</w>
+		<w pos="N">tóc</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="N">nốt</w>
+		<w pos="A">đỏ</w>
+		<w pos="C">như</w>
+		<w pos="V">phát ban</w>
+		<w pos="E">do</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">amidan</w>
+		<w pos="C">hay</w>
+		<w pos="A">nóng</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos="N">Chỉ số</w>
+		<w pos="Np">Eosinophil</w>
+		<w pos="V">tăng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">nửa</w>
+		<w pos="N">đầu</w>
+		<w pos="E">do</w>
+		<w pos="V">rối loạn</w>
+		<w pos="N">vận</w>
+		<w pos="N">mạch</w>
+		<w pos="N">não</w>
+		<w pos=",">,</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">nào</w>
+		<w pos="V">giảm</w>
+		<w pos="V">đau</w>
+		<w pos="A">nhanh chóng</w>
+	</s>
+	<s>
+		<w pos="N">Hồng cầu</w>
+		<w pos="N">niệu</w>
+		<w pos="M">2</w>
+		<w pos="A">+</w>
+		<w pos="CC">và</w>
+		<w pos="A">dương tính</w>
+		<w pos="N">chất</w>
+		<w pos="V">gây</w>
+		<w pos="V">nghiện</w>
+		<w pos=",">,</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="P">sao</w>
+	</s>
+	<s>
+		<w pos="N">Cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau</w>
+		<w pos="N">cơ bắp</w>
+		<w pos=",">,</w>
+		<w pos="N">chân tay</w>
+		<w pos="R">không</w>
+		<w pos="V">có</w>
+		<w pos="N">sức</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">gan</w>
+		<w pos="Np">B</w>
+		<w pos="V">mạn</w>
+		<w pos=",">,</w>
+		<w pos="Np">HBsAg</w>
+		<w pos=",">,</w>
+		<w pos="Np">HBeAg</w>
+		<w pos="A">dương tính</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">cho</w>
+		<w pos="N">con</w>
+		<w pos="V">bú</w>
+	</s>
+	<s>
+		<w pos="N">Nếu không</w>
+		<w pos="V">phát hiện</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="A">kịp thời</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="N">điều</w>
+		<w pos="P">gì</w>
+		<w pos="R">sẽ</w>
+		<w pos="V">xảy ra</w>
+	</s>
+	<s>
+		<w pos="V">Lao</w>
+		<w pos="N">kháng</w>
+		<w pos="N">thuốc</w>
+		<w pos=",">,</w>
+		<w pos="N">tỷ lệ</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">thành công</w>
+		<w pos="V">là</w>
+		<w pos="P">bao nhiêu</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="N">CA</w>
+		<w pos="M">72</w>
+		<w pos="-">-</w>
+		<w pos="M">4</w>
+		<w pos="A">cao</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">lo lắng</w>
+		<w pos="CC">và</w>
+		<w pos="V">ám ảnh</w>
+		<w pos="R">quá</w>
+		<w pos="Np">BS</w>
+		<w pos="Np">Lưu Phương</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Có</w>
+		<w pos="C">nên</w>
+		<w pos="V">cho</w>
+		<w pos="A">trẻ</w>
+		<w pos="V">ăn</w>
+		<w pos="A">ngũ cốc</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">sữa</w>
+		<w pos="E">để</w>
+		<w pos="V">bù</w>
+		<w pos="N">năng lượng</w>
+		<w pos="V">bị</w>
+		<w pos="V">thiếu hụt</w>
+	</s>
+	<s>
+		<w pos="Np">Polyp</w>
+		<w pos="N">đại tràng</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">kiêng cữ</w>
+		<w pos="N">món</w>
+		<w pos="V">ăn</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="V">Cách</w>
+		<w pos="V">chăm sóc</w>
+		<w pos="A">trẻ</w>
+		<w pos="C">hay</w>
+		<w pos="V">nôn</w>
+		<w pos="N">trớ</w>
+		<w pos="V">gây</w>
+		<w pos="V">sặc</w>
+	</s>
+	<s>
+		<w pos="N">Thai</w>
+		<w pos="M">4</w>
+		<w pos="N">tháng</w>
+		<w pos="R">chưa</w>
+		<w pos="V">đạp</w>
+		<w pos=",">,</w>
+		<w pos="R">chỉ</w>
+		<w pos="V">gò</w>
+		<w pos="T">thôi</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="V">thiếu</w>
+		<w pos="N">chất</w>
+		<w pos="V">phải</w>
+		<w pos="R">không</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">mụn</w>
+		<w pos="N">nước</w>
+		<w pos="E">ở</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="N">thủy đậu</w>
+		<w pos="C">hay</w>
+		<w pos="N">bệnh lý</w>
+		<w pos="A">khác</w>
+	</s>
+	<s>
+		<w pos="N">Giun</w>
+		<w pos="E">trong</w>
+		<w pos="N">“</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos="N">”</w>
+		<w pos="A">trẻ</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+		<w pos="R">không</w>
+		<w pos="V">thưa</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">sốt</w>
+		<w pos="A">thường xuyên</w>
+		<w pos=",">,</w>
+		<w pos="A">ốm yếu</w>
+		<w pos=",">,</w>
+		<w pos="V">khám</w>
+		<w pos="N">chuyên khoa</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">lưng</w>
+		<w pos="N">khi</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="P">tôi</w>
+		<w pos="V">bị</w>
+		<w pos="V">thêm</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">phổi</w>
+	</s>
+	<s>
+		<w pos="A">Nhói</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">nơi</w>
+		<w pos="E">trên</w>
+		<w pos="N">cơ thể</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="A">ít</w>
+		<w pos="V">vận động</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="N">cơm</w>
+		<w pos="E">vào</w>
+		<w pos="N">bữa</w>
+		<w pos="N">sáng</w>
+		<w pos="R">không</w>
+		<w pos="A">tốt</w>
+		<w pos="E">cho</w>
+		<w pos="N">hệ</w>
+		<w pos="V">hóa</w>
+	</s>
+	<s>
+		<w pos="V">Nhờ</w>
+		<w pos="Np">BS</w>
+		<w pos="V">giải thích</w>
+		<w pos="V">giúp</w>
+		<w pos="P">tôi</w>
+		<w pos="N">kết quả</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="Np">Helicobacter</w>
+		<w pos="V">pylori</w>
+	</s>
+	<s>
+		<w pos="N">Lòng</w>
+		<w pos="N">bàn tay</w>
+		<w pos="V">nổi</w>
+		<w pos="N">nốt</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">chai</w>
+		<w pos=",">,</w>
+		<w pos="V">bôi</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">hạch</w>
+		<w pos="E">ở</w>
+		<w pos="N">bầu</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="CC">và</w>
+		<w pos="A">cứng</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">vú</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">viên</w>
+		<w pos="V">sủi</w>
+		<w pos="V">trị</w>
+		<w pos="A">đau đầu</w>
+		<w pos="V">gây</w>
+		<w pos="V">tăng</w>
+		<w pos="N">men</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos="A">Rát</w>
+		<w pos="N">họng</w>
+		<w pos=",">,</w>
+		<w pos="V">đàm</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="A">buồn nôn</w>
+		<w pos="E">vào</w>
+		<w pos="N">buổi sáng</w>
+		<w pos=",">,</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Đổ</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">mồ hôi</w>
+		<w pos="N">khi</w>
+		<w pos="N">thời tiết</w>
+		<w pos="A">lạnh</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="A">yếu</w>
+		<w pos="N">tim</w>
+	</s>
+	<s>
+		<w pos="V">Gãy</w>
+		<w pos="N">xương</w>
+		<w pos="N">chày</w>
+		<w pos=",">,</w>
+		<w pos="N">bao lâu</w>
+		<w pos="V">tháo</w>
+		<w pos="N">bột</w>
+	</s>
+	<s>
+		<w pos="A">Chướng</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="N">ợ</w>
+		<w pos="N">chua</w>
+		<w pos=",">,</w>
+		<w pos="V">nôn</w>
+		<w pos="E">do</w>
+		<w pos="V">uống</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">bia</w>
+	</s>
+	<s>
+		<w pos="A">Đắng</w>
+		<w pos="N">lưỡi</w>
+		<w pos=",">,</w>
+		<w pos="V">chán</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="A">buồn nôn</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="R">không</w>
+		<w pos="V">đỡ</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">khắc phục</w>
+		<w pos="N">tình trạng</w>
+		<w pos="V">học</w>
+		<w pos="N">trước</w>
+		<w pos="V">quên</w>
+		<w pos="E">sau</w>
+	</s>
+	<s>
+		<w pos="A">Căng</w>
+		<w pos="N">gò má</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Môi</w>
+		<w pos="N">cháu</w>
+		<w pos="N">thâm</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="N">da</w>
+		<w pos="V">bong</w>
+		<w pos="N">tróc</w>
+		<w pos=",">,</w>
+		<w pos="V">nói chuyện</w>
+		<w pos="N">khó khăn</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bệnh</w>
+		<w pos="P">gì</w>
+		<w pos="V">làm</w>
+		<w pos="A">đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="A">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="A">buồn nôn</w>
+		<w pos=",">,</w>
+		<w pos="A">thiếu</w>
+		<w pos="V">ngủ</w>
+	</s>
+	<s>
+		<w pos="E">Để</w>
+		<w pos="V">xác định</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">nhiễm bệnh</w>
+		<w pos="E">qua</w>
+		<w pos="N">đường</w>
+		<w pos="N">tình dục</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Tim</w>
+		<w pos="V">đập</w>
+		<w pos="A">nhanh</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos=",">,</w>
+		<w pos="V">mất ngủ</w>
+		<w pos="V">kèm</w>
+		<w pos="A">dễ</w>
+		<w pos="V">xúc động</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">trầm cảm</w>
+	</s>
+	<s>
+		<w pos="V">Trầy xước</w>
+		<w pos="N">chân</w>
+		<w pos="E">do</w>
+		<w pos="N">tai nạn</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">kiêng</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+	</s>
+	<s>
+		<w pos="V">Chán</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="N">vàng</w>
+		<w pos="N">da</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="L">những</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+		<w pos="V">về</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos="R">Đang</w>
+		<w pos="E">cho</w>
+		<w pos="N">con</w>
+		<w pos="V">bú</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chống</w>
+		<w pos="N">dị ứng</w>
+		<w pos="Np">Allerclear</w>
+		<w pos="V">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="A">sơ sinh</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau</w>
+		<w pos="N">mắt</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">tobradex</w>
+		<w pos="R">được</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="R">Chưa</w>
+		<w pos="V">điều trị</w>
+		<w pos="R">hết</w>
+		<w pos="N">lao</w>
+		<w pos=",">,</w>
+		<w pos="E">cho</w>
+		<w pos="N">con</w>
+		<w pos="V">bú</w>
+		<w pos="V">có</w>
+		<w pos="V">lây</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">sang</w>
+		<w pos="N">bé</w>
+	</s>
+	<s>
+		<w pos="N">Nước</w>
+		<w pos="V">vào</w>
+		<w pos="N">tai</w>
+		<w pos="N">khi</w>
+		<w pos="V">tắm</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="V">nên</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="P">Vì sao</w>
+		<w pos="R">đã</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">ngừa</w>
+		<w pos="C">nhưng</w>
+		<w pos="N">bé</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">bị</w>
+		<w pos="V">thủy đậu</w>
+	</s>
+	<s>
+		<w pos="N">Nhà</w>
+		<w pos="V">có</w>
+		<w pos="N">người</w>
+		<w pos="V">bị</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="X">làm gì</w>
+		<w pos="E">để</w>
+		<w pos="R">không</w>
+		<w pos="V">lây nhiễm</w>
+		<w pos="N">khi</w>
+		<w pos="V">chăm sóc</w>
+	</s>
+	<s>
+		<w pos="A">Thường xuyên</w>
+		<w pos="V">tiếp xúc</w>
+		<w pos="E">với</w>
+		<w pos="N">người</w>
+		<w pos="V">bị</w>
+		<w pos="V">lao</w>
+		<w pos=",">,</w>
+		<w pos="P">tôi</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">nhiễm bệnh</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">nhức</w>
+		<w pos="N">người</w>
+		<w pos="E">sau</w>
+		<w pos="N">ngã</w>
+		<w pos="V">đập</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">lên</w>
+		<w pos="N">tuyến</w>
+		<w pos="E">trên</w>
+		<w pos="V">khám</w>
+		<w pos="R">lại</w>
+	</s>
+	<s>
+		<w pos="V">Phẫu thuật</w>
+		<w pos="V">nối</w>
+		<w pos="R">lại</w>
+		<w pos="N">cơ</w>
+		<w pos="N">chóp</w>
+		<w pos="V">xoay</w>
+		<w pos="V">phải</w>
+		<w pos="V">nằm</w>
+		<w pos="N">viện</w>
+		<w pos="P">bao lâu</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">mỏi</w>
+		<w pos="N">thắt lưng</w>
+		<w pos=",">,</w>
+		<w pos="N">xuất tinh</w>
+		<w pos="A">sớm</w>
+		<w pos=",">,</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">MRI</w>
+		<w pos="V">có</w>
+		<w pos="V">ra</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="V">Bể</w>
+		<w pos="N">giọng</w>
+		<w pos=",">,</w>
+		<w pos="A">mệt mỏi</w>
+		<w pos=",">,</w>
+		<w pos="N">đầu</w>
+		<w pos="N">vú</w>
+		<w pos="V">nổi</w>
+		<w pos="N">hạt</w>
+		<w pos=",">,</w>
+		<w pos="N">có lẽ nào</w>
+		<w pos="A">dậy thì</w>
+		<w pos="N">lần</w>
+		<w pos="M">2</w>
+	</s>
+	<s>
+		<w pos="N">Tiền sử</w>
+		<w pos="V">tai biến</w>
+		<w pos="N">mạch máu</w>
+		<w pos="N">não</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="N">em</w>
+		<w pos="V">mất ngủ</w>
+		<w pos=",">,</w>
+		<w pos="A">ảo</w>
+		<w pos="N">thanh</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">lao phổi</w>
+		<w pos="Np">AFB</w>
+		<w pos="M">(</w>
+		<w pos="Nu">+</w>
+		<w pos="M">)</w>
+		<w pos="N">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="A">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="N">huyết áp thấp</w>
+		<w pos="V">kèm</w>
+		<w pos="V">nôn</w>
+		<w pos="V">ói</w>
+		<w pos=",">,</w>
+		<w pos="V">khám</w>
+		<w pos="N">khoa</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="N">Sau</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">đại tràng</w>
+		<w pos="N">góc</w>
+		<w pos="A">gan</w>
+		<w pos=",">,</w>
+		<w pos="N">người bệnh</w>
+		<w pos="V">cần</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="L">Những</w>
+		<w pos="N">nguyên nhân</w>
+		<w pos="V">gây</w>
+		<w pos="V">tiểu</w>
+		<w pos="N">đêm</w>
+	</s>
+	<s>
+		<w pos="V">Bị</w>
+		<w pos="V">đau</w>
+		<w pos="E">do</w>
+		<w pos="N">gai cột sống</w>
+		<w pos="C">nên</w>
+		<w pos="V">điều trị</w>
+		<w pos="X">ra sao</w>
+	</s>
+	<s>
+		<w pos="V">Cắt</w>
+		<w pos="N">tuyến giáp</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">chức năng</w>
+		<w pos="V">sinh sản</w>
+	</s>
+	<s>
+		<w pos="N">Mẻ</w>
+		<w pos="N">xương</w>
+		<w pos="N">mác</w>
+		<w pos="V">mắt cá</w>
+		<w pos="N">chân</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">để</w>
+		<w pos="R">lại</w>
+		<w pos="N">di chứng</w>
+	</s>
+	<s>
+		<w pos="V">Kết thúc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="P">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">được</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="V">Nôn</w>
+		<w pos="R">ra</w>
+		<w pos="N">dịch</w>
+		<w pos="A">nâu</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">vị</w>
+		<w pos="A">đắng</w>
+		<w pos=",">,</w>
+		<w pos="N">cháu</w>
+		<w pos="V">bị</w>
+		<w pos="P">sao</w>
+		<w pos="T">vậy</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">nhiễm trùng</w>
+		<w pos="N">huyết</w>
+		<w pos=",">,</w>
+		<w pos="N">sốc</w>
+		<w pos="N">phản vệ</w>
+		<w pos=",">,</w>
+		<w pos="N">viêm</w>
+		<w pos="N">tụy</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">mệt mỏi</w>
+		<w pos=",">,</w>
+		<w pos="N">mắt</w>
+		<w pos="A">mờ</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="C">hay</w>
+		<w pos="V">rùng mình</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="V">Hạch</w>
+		<w pos="N">lao</w>
+		<w pos="E">ở</w>
+		<w pos="N">vùng</w>
+		<w pos="V">nách</w>
+		<w pos="R">mãi</w>
+		<w pos="R">không</w>
+		<w pos="A">lành</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="N">tay chân</w>
+		<w pos="N">miệng</w>
+		<w pos="V">có</w>
+		<w pos="V">làm</w>
+		<w pos="V">hết</w>
+		<w pos="N">tình trạng</w>
+		<w pos="V">đi ngoài</w>
+	</s>
+	<s>
+		<w pos="N">Răng khôn</w>
+		<w pos="V">mọc</w>
+		<w pos="A">lệch</w>
+		<w pos="V">gây</w>
+		<w pos="A">đau nhức</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="N">Miệng</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="N">máu</w>
+		<w pos="A">nhỏ</w>
+		<w pos=",">,</w>
+		<w pos="C">do</w>
+		<w pos="V">ăn</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">đồ</w>
+		<w pos="A">nóng</w>
+	</s>
+	<s>
+		<w pos="N">Vết</w>
+		<w pos="A">loét</w>
+		<w pos="N">miệng</w>
+		<w pos="A">lâu</w>
+		<w pos="A">lành</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">mọc</w>
+		<w pos="A">răng khôn</w>
+		<w pos="C">hay</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="A">Mệt mỏi</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos=",">,</w>
+		<w pos="V">giật</w>
+		<w pos="N">cơ</w>
+		<w pos="N">mặt</w>
+		<w pos="E">sau</w>
+		<w pos="E">do</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="E">của</w>
+		<w pos="N">ma túy</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="N">thịt</w>
+		<w pos="E">ở</w>
+		<w pos="N">lưỡi</w>
+		<w pos="CC">và</w>
+		<w pos="V">“</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos="A">”</w>
+		<w pos="C">nhưng</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="Np">HPV</w>
+		<w pos="V">âm tính</w>
+	</s>
+	<s>
+		<w pos="P">Tôi</w>
+		<w pos="V">bị</w>
+		<w pos="V">ra</w>
+		<w pos="V">dịch</w>
+		<w pos="N">vàng</w>
+		<w pos="E">sau</w>
+		<w pos="M">5</w>
+		<w pos="N">tuần</w>
+		<w pos="V">khoét</w>
+		<w pos="N">chóp</w>
+		<w pos="A">cổ</w>
+		<w pos="N">tử cung</w>
+	</s>
+	<s>
+		<w pos="A">Sưng</w>
+		<w pos="N">tay</w>
+		<w pos="E">vì</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="V">đặt</w>
+		<w pos="N">quả</w>
+		<w pos="N">cầu</w>
+		<w pos="N">thận</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="X">ra sao</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="A">bỏng</w>
+		<w pos=",">,</w>
+		<w pos="N">vết thương</w>
+		<w pos="R">đã</w>
+		<w pos="V">lên</w>
+		<w pos="N">da non</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">đau</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">bôi</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Dịch</w>
+		<w pos="N">ổ bụng</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="E">của</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">gan</w>
+	</s>
+	<s>
+		<w pos="Nc">Giãn</w>
+		<w pos="N">đài</w>
+		<w pos="V">bể</w>
+		<w pos="N">thận</w>
+		<w pos=",">,</w>
+		<w pos="N">niệu quản</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">khi</w>
+		<w pos="V">đi lại</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">sau</w>
+		<w pos="V">vỡ</w>
+		<w pos="N">xương</w>
+		<w pos=",">,</w>
+		<w pos="N">cách</w>
+		<w pos="P">nào</w>
+		<w pos="V">phục hồi</w>
+		<w pos="A">hoàn toàn</w>
+	</s>
+	<s>
+		<w pos="N">Liều lượng</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">lao</w>
+		<w pos="A">cần thiết</w>
+		<w pos="E">với</w>
+		<w pos="N">người</w>
+		<w pos="V">có</w>
+		<w pos="N">cân</w>
+		<w pos="A">nặng</w>
+		<w pos="A">gần</w>
+		<w pos="M">60kg</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="A">u</w>
+		<w pos="E">sau</w>
+		<w pos="N">gáy</w>
+		<w pos="A">gần</w>
+		<w pos="N">cột sống</w>
+		<w pos="A">cổ</w>
+		<w pos=",">,</w>
+		<w pos="N">cháu</w>
+		<w pos="V">sợ</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">dây thần kinh</w>
+	</s>
+	<s>
+		<w pos="V">Chảy</w>
+		<w pos="N">nước</w>
+		<w pos="N">vàng</w>
+		<w pos="N">chỗ</w>
+		<w pos="N">vết thương</w>
+		<w pos="A">bỏng</w>
+		<w pos="V">bô</w>
+		<w pos="N">xe</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Sốt</w>
+		<w pos=",">,</w>
+		<w pos="A">nóng</w>
+		<w pos="E">sau</w>
+		<w pos="N">gáy</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">lao phổi</w>
+	</s>
+	<s>
+		<w pos="N">Da</w>
+		<w pos="N">mặt</w>
+		<w pos="V">tróc</w>
+		<w pos="N">vảy</w>
+		<w pos=",">,</w>
+		<w pos="A">đỏ</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="V">tăng</w>
+		<w pos="N">men</w>
+		<w pos="N">gan</w>
+		<w pos="C">thì</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="R">Mới</w>
+		<w pos="V">bị</w>
+		<w pos="N">thủy đậu</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">sensa</w>
+		<w pos="N">cools</w>
+		<w pos=",">,</w>
+		<w pos="N">amoxiccyclolife</w>
+		<w pos="...">...</w>
+		<w pos="V">có</w>
+		<w pos="A">đúng</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="V">Sốt</w>
+		<w pos="V">kèm</w>
+		<w pos="A">rét</w>
+		<w pos="V">run</w>
+		<w pos=",">,</w>
+		<w pos="A">đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">dưỡi</w>
+		<w pos="N">lưỡi</w>
+		<w pos="V">nổi</w>
+		<w pos="N">hột</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">lao phổi</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">hạch</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="V">Cách</w>
+		<w pos="V">nhận biết</w>
+		<w pos=",">,</w>
+		<w pos="N">chi phí</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+	</s>
+	<s>
+		<w pos="N">Loãng xương</w>
+		<w pos="A">nặng</w>
+		<w pos="V">gây</w>
+		<w pos="V">biến chứng</w>
+		<w pos="A">lệch</w>
+		<w pos="N">cột sống</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">cải thiện</w>
+	</s>
+	<s>
+		<w pos="N">Đau đầu</w>
+		<w pos="V">kèm</w>
+		<w pos="V">chảy</w>
+		<w pos="N">máu cam</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="V">Tức</w>
+		<w pos="N">ngực</w>
+		<w pos=",">,</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">phổi</w>
+		<w pos="V">mạn</w>
+	</s>
+	<s>
+		<w pos="N">Sẹo</w>
+		<w pos="V">lún</w>
+		<w pos="E">ở</w>
+		<w pos="N">mũi</w>
+		<w pos="V">gây</w>
+		<w pos="A">khó</w>
+		<w pos="V">thở</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">hết</w>
+		<w pos="N">tình trạng</w>
+		<w pos="P">này</w>
+	</s>
+	<s>
+		<w pos="V">Biểu hiện</w>
+		<w pos="V">chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="V">nhức</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">chẩn đoán</w>
+		<w pos="V">rối loạn</w>
+		<w pos="N">tiền đình</w>
+		<w pos="V">có</w>
+		<w pos="A">chính xác</w>
+	</s>
+	<s>
+		<w pos="N">Nhiễm khuẩn</w>
+		<w pos="N">huyết</w>
+		<w pos=",">,</w>
+		<w pos="N">ung thư</w>
+		<w pos="N">máu</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="V">lọc</w>
+		<w pos="N">máu</w>
+		<w pos="M">mỗi</w>
+		<w pos="N">tuần</w>
+	</s>
+	<s>
+		<w pos="A">Tê</w>
+		<w pos="A">buốt</w>
+		<w pos="N">đùi</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">khám</w>
+		<w pos="CC">và</w>
+		<w pos="V">điều trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="N">Sau</w>
+		<w pos="V">tháo</w>
+		<w pos="N">bột</w>
+		<w pos="V">gãy</w>
+		<w pos="N">xương</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="A">cổ chân</w>
+		<w pos=",">,</w>
+		<w pos="A">bầm</w>
+		<w pos="A">tím</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">ra</w>
+		<w pos="N">mồi</w>
+		<w pos="A">hôi</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="A">nóng lòng</w>
+		<w pos="N">bàn tay</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="Np">Ho</w>
+		<w pos="V">kéo dài</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">đường</w>
+		<w pos="N">hô hấp</w>
+	</s>
+	<s>
+		<w pos="V">Gãy</w>
+		<w pos="N">xương đòn</w>
+		<w pos="P">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">được</w>
+		<w pos="V">chơi</w>
+		<w pos="N">thể thao</w>
+		<w pos=",">,</w>
+		<w pos="V">tập</w>
+		<w pos="N">võ</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">bị</w>
+		<w pos="V">giãn</w>
+		<w pos="N">não</w>
+		<w pos="Z">thất</w>
+		<w pos=",">,</w>
+		<w pos="N">kích thước</w>
+		<w pos="N">đầu</w>
+		<w pos="V">tăng</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="P">Vì sao</w>
+		<w pos="R">không</w>
+		<w pos="V">tìm</w>
+		<w pos="V">thấy</w>
+		<w pos="N">vi trùng</w>
+		<w pos="V">lao</w>
+		<w pos="E">trong</w>
+		<w pos="N">đàm</w>
+		<w pos="C">mà</w>
+		<w pos="Np">BS</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">điều trị</w>
+	</s>
+	<s>
+		<w pos="V">Phân biệt</w>
+		<w pos="N">lao phổi</w>
+		<w pos="CC">và</w>
+		<w pos="V">lao</w>
+		<w pos="V">hạch</w>
+	</s>
+	<s>
+		<w pos="V">Để</w>
+		<w pos="V">biết</w>
+		<w pos="V">lao</w>
+		<w pos="N">kháng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">cần</w>
+		<w pos="V">làm</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Hút</w>
+		<w pos="N">thuốc lá</w>
+		<w pos="V">làm</w>
+		<w pos="V">tăng</w>
+		<w pos="N">nguy cơ</w>
+		<w pos="V">mắc</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="E">ở</w>
+		<w pos="Np">Việt Nam</w>
+		<w pos="V">có</w>
+		<w pos="A">khác</w>
+		<w pos="N">nước ngoài</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="V">trào</w>
+		<w pos="A">ngược</w>
+		<w pos="N">dạ dày</w>
+		<w pos="N">thực quản</w>
+		<w pos="R">vẫn</w>
+		<w pos="V">nghẹn</w>
+		<w pos="N">cổ họng</w>
+		<w pos=",">,</w>
+		<w pos="V">ợ</w>
+		<w pos="R">hơi</w>
+	</s>
+	<s>
+		<w pos="Np">Đen</w>
+		<w pos="N">lưỡi</w>
+		<w pos="V">kèm</w>
+		<w pos="A">nóng</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="V">Điều trị</w>
+		<w pos="V">gãy</w>
+		<w pos="N">xương</w>
+		<w pos="N">mũi</w>
+		<w pos="T">chính</w>
+		<w pos="N">thế nào</w>
+		<w pos=",">,</w>
+		<w pos="N">chi phí</w>
+		<w pos="P">bao nhiêu</w>
+	</s>
+	<s>
+		<w pos="V">Đi</w>
+		<w pos="A">khập khiễng</w>
+		<w pos="E">sau</w>
+		<w pos="M">10</w>
+		<w pos="N">năm</w>
+		<w pos="V">dẫm</w>
+		<w pos="V">phải</w>
+		<w pos="Nc">miểng</w>
+		<w pos="N">chai</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="V">đi tiêu</w>
+		<w pos="V">kèm</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">chất</w>
+		<w pos="N">nhầy</w>
+		<w pos="N">vàng</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="V">Xét nghiệm</w>
+		<w pos="N">trước</w>
+		<w pos="V">phẫu thuật</w>
+		<w pos="V">có</w>
+		<w pos="V">phát hiện</w>
+		<w pos="N">ma túy</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+		<w pos=",">,</w>
+		<w pos="N">túi</w>
+		<w pos="N">ối</w>
+		<w pos="E">của</w>
+		<w pos="N">em</w>
+		<w pos="V">có</w>
+		<w pos="R">quá</w>
+		<w pos="N">bé</w>
+	</s>
+	<s>
+		<w pos="V">Rụng</w>
+		<w pos="N">lông</w>
+		<w pos=""">"</w>
+		<w pos="N">vùng</w>
+		<w pos="A">kín</w>
+		<w pos=""">"</w>
+		<w pos="N">tuổi</w>
+		<w pos="A">dậy thì</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="N">Mụn nhọt</w>
+		<w pos="E">trên</w>
+		<w pos="N">mắt</w>
+		<w pos="V">bị</w>
+		<w pos="N">chai</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">hết</w>
+	</s>
+	<s>
+		<w pos="E">Dưới</w>
+		<w pos="N">mí</w>
+		<w pos="N">mắt</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn</w>
+		<w pos="A">nhỏ</w>
+		<w pos="V">gây</w>
+		<w pos="A">cộm</w>
+		<w pos=",">,</w>
+		<w pos="A">đau nhức</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">chắp</w>
+	</s>
+	<s>
+		<w pos="R">Vẫn</w>
+		<w pos="R">còn</w>
+		<w pos="V">chảy máu</w>
+		<w pos="E">sau</w>
+		<w pos="M">4</w>
+		<w pos="N">ngày</w>
+		<w pos="V">chụp</w>
+		<w pos="Np">HSG</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="N">Phác đồ</w>
+		<w pos="V">trị</w>
+		<w pos="N">lao</w>
+		<w pos="Np">Rifampicin</w>
+		<w pos="-">-</w>
+		<w pos="Np">Isoniaziad</w>
+		<w pos="-">-</w>
+		<w pos="Np">Ethambutol</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="V">thai nhi</w>
+	</s>
+	<s>
+		<w pos="V">Ngứa</w>
+		<w pos="N">bẹn</w>
+		<w pos="CC">và</w>
+		<w pos="N">mông</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">đường</w>
+		<w pos="V">viền</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="V">chữa trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">họng</w>
+		<w pos="A">lâu</w>
+		<w pos="N">ngày</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="V">hạch</w>
+		<w pos="A">cổ</w>
+		<w pos=",">,</w>
+		<w pos="V">mong</w>
+		<w pos="Np">BS</w>
+		<w pos="V">tư vấn</w>
+		<w pos="V">giúp</w>
+	</s>
+	<s>
+		<w pos="V">Rối loạn</w>
+		<w pos="A">tái</w>
+		<w pos="R">cực</w>
+		<w pos="R">không</w>
+		<w pos="A">đặc hiệu</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="N">Vết</w>
+		<w pos="A">loét</w>
+		<w pos="E">trong</w>
+		<w pos="N">miệng</w>
+		<w pos="A">lâu</w>
+		<w pos="A">lành</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="A">Nóng</w>
+		<w pos="N">chân tay</w>
+		<w pos="E">từ</w>
+		<w pos="N">bé</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">phải</w>
+		<w pos="N">bệnh lý</w>
+	</s>
+	<s>
+		<w pos="N">Cảm giác</w>
+		<w pos="A">mỏi</w>
+		<w pos=",">,</w>
+		<w pos="A">nặng</w>
+		<w pos="N">hàm</w>
+		<w pos=",">,</w>
+		<w pos="V">phát</w>
+		<w pos="R">ra</w>
+		<w pos="N">tiếng</w>
+		<w pos="V">kêu</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="P">sao</w>
+		<w pos="P">vậy</w>
+		<w pos="Np">BS</w>
+	</s>
+	<s>
+		<w pos="N">Ban đêm</w>
+		<w pos="R">thường</w>
+		<w pos="V">bị</w>
+		<w pos="V">sôi</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="N">cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">mất</w>
+		<w pos="N">khứu giác</w>
+	</s>
+	<s>
+		<w pos="N">Phụ nữ</w>
+		<w pos="R">đang</w>
+		<w pos="V">cho</w>
+		<w pos="N">con</w>
+		<w pos="V">bú</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="V">uống</w>
+		<w pos="N">vitamin</w>
+		<w pos="Np">E</w>
+	</s>
+	<s>
+		<w pos="N">Khâu</w>
+		<w pos="N">thái dương</w>
+		<w pos="E">sau</w>
+		<w pos="N">va đập</w>
+		<w pos=",">,</w>
+		<w pos="N">mắt</w>
+		<w pos="A">trái</w>
+		<w pos="A">sưng</w>
+		<w pos="V">phù</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Thời gian</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+		<w pos="N">bao lâu</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="L">những</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Dừng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">lao</w>
+		<w pos="E">vì</w>
+		<w pos="V">tăng</w>
+		<w pos="N">men</w>
+		<w pos="N">gan</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">khả năng</w>
+		<w pos="V">lành</w>
+		<w pos="N">bệnh</w>
+	</s>
+	<s>
+		<w pos="L">Các</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="V">giúp</w>
+		<w pos="V">nhận biết</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+	</s>
+	<s>
+		<w pos="N">Đối tượng</w>
+		<w pos="P">nào</w>
+		<w pos="C">nên</w>
+		<w pos="V">đi</w>
+		<w pos="N">tầm</w>
+		<w pos="V">soát</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">lao</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">mụn</w>
+		<w pos="N">chai</w>
+		<w pos="E">ở</w>
+		<w pos="N">tay</w>
+		<w pos=",">,</w>
+		<w pos="N">cảm giác</w>
+		<w pos="C">như</w>
+		<w pos="N">gai</w>
+		<w pos="V">đâm</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="X">Làm sao</w>
+		<w pos="V">cắt</w>
+		<w pos="V">được</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Olanzapine</w>
+		<w pos="E">trước</w>
+		<w pos="N">khi</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="R">vào</w>
+		<w pos="V">là</w>
+		<w pos="N">đi đại tiện</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="V">thiếu</w>
+		<w pos="N">vi khuẩn</w>
+		<w pos="E">trong</w>
+		<w pos="N">dạ dày</w>
+	</s>
+	<s>
+		<w pos="N">Siêu âm</w>
+		<w pos="N">gan</w>
+		<w pos="A">thô</w>
+		<w pos="N">kết quả</w>
+		<w pos="Np">SGOT</w>
+		<w pos="M">50</w>
+		<w pos=",">,</w>
+		<w pos="Np">SGPT</w>
+		<w pos="M">40</w>
+		<w pos=",">,</w>
+		<w pos="X">nghĩa là</w>
+		<w pos="P">sao</w>
+	</s>
+	<s>
+		<w pos="N">Chân</w>
+		<w pos="A">sưng</w>
+		<w pos="V">phù</w>
+		<w pos="N">sau</w>
+		<w pos="V">té</w>
+		<w pos="N">xe</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="V">nhiễm trùng</w>
+	</s>
+	<s>
+		<w pos="A">Sưng</w>
+		<w pos="N">má</w>
+		<w pos="E">sau</w>
+		<w pos="N">khi</w>
+		<w pos="V">đắp</w>
+		<w pos="N">mặt nạ</w>
+		<w pos="N">sữa chua</w>
+		<w pos=",">,</w>
+		<w pos="N">mật ong</w>
+		<w pos="CC">và</w>
+		<w pos="N">bột</w>
+		<w pos="V">đậu</w>
+	</s>
+	<s>
+		<w pos="A">Tự nhiên</w>
+		<w pos="N">mắt</w>
+		<w pos="A">tối sầm</w>
+		<w pos=",">,</w>
+		<w pos="R">suýt</w>
+		<w pos="V">ngất xỉu</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">nước</w>
+		<w pos="C">thì</w>
+		<w pos="V">hết</w>
+	</s>
+	<s>
+		<w pos="N">Bố</w>
+		<w pos="N">cháu</w>
+		<w pos="V">bị</w>
+		<w pos="V">đau</w>
+		<w pos="M">2</w>
+		<w pos="N">bên</w>
+		<w pos="N">mông</w>
+		<w pos="V">là</w>
+		<w pos="V">bị</w>
+		<w pos="P">gì</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">nửa</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="A">choáng váng</w>
+		<w pos="E">do</w>
+		<w pos="V">hít</w>
+		<w pos="N">xà đơn</w>
+		<w pos=",">,</w>
+		<w pos="V">tập thể dục</w>
+	</s>
+	<s>
+		<w pos="N">Buồn nôn</w>
+		<w pos="N">khi</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="V">đau</w>
+		<w pos="N">dạ dày</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="V">bị</w>
+		<w pos="V">ho</w>
+		<w pos=",">,</w>
+		<w pos="V">sổ mũi</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="A">tự ý</w>
+		<w pos="V">mua</w>
+		<w pos="N">thuốc</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="A">âm ỉ</w>
+		<w pos="V">kèm</w>
+		<w pos="A">sôi</w>
+		<w pos="N">bụng</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">khám</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">thắt lưng</w>
+		<w pos=",">,</w>
+		<w pos="N">đầu gối</w>
+		<w pos="N">khi</w>
+		<w pos="V">dang</w>
+		<w pos="A">rộng</w>
+		<w pos="N">chân</w>
+		<w pos=",">,</w>
+		<w pos="V">đi lại</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="Np">Hoa</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="V">mất</w>
+		<w pos="N">thăng bằng</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thực phẩm</w>
+		<w pos="N">chức năng</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="N">Vết thương</w>
+		<w pos="E">do</w>
+		<w pos="N">chó</w>
+		<w pos="V">cắn</w>
+		<w pos="A">sưng</w>
+		<w pos=",">,</w>
+		<w pos="A">bầm</w>
+		<w pos="A">tím</w>
+		<w pos="V">kèm</w>
+		<w pos="N">ngứa</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">dại</w>
+	</s>
+	<s>
+		<w pos="N">Buồn nôn</w>
+		<w pos="N">sau</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="V">ợ</w>
+		<w pos="N">hơi</w>
+		<w pos=",">,</w>
+		<w pos="N">triệu chứng</w>
+		<w pos="V">trào</w>
+		<w pos="A">ngược</w>
+		<w pos="N">dạ dày</w>
+		<w pos="A">thực quản</w>
+	</s>
+	<s>
+		<w pos="Np">Uống Moxio Plus</w>
+		<w pos="CC">và</w>
+		<w pos="Np">Elevit</w>
+		<w pos="V">có</w>
+		<w pos="V">bị</w>
+		<w pos="V">dư</w>
+		<w pos="V">acid</w>
+		<w pos="N">folic</w>
+	</s>
+	<s>
+		<w pos="V">Lo lắng</w>
+		<w pos=",">,</w>
+		<w pos="V">làm việc</w>
+		<w pos="R">không</w>
+		<w pos="V">tự chủ</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">bị</w>
+		<w pos="V">trầm cảm</w>
+		<w pos="C">hay</w>
+		<w pos="N">đa</w>
+		<w pos="N">nhân cách</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">chống</w>
+		<w pos="V">phơi</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+		<w pos="E">sau</w>
+		<w pos="M">90</w>
+		<w pos="N">giờ</w>
+		<w pos="R">còn</w>
+		<w pos="V">tác dụng</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="N">thịt</w>
+		<w pos="N">gà</w>
+		<w pos=",">,</w>
+		<w pos="N">bánh chưng</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">bia</w>
+		<w pos="V">làm</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">vết</w>
+		<w pos="V">mổ</w>
+		<w pos="V">trật</w>
+		<w pos="N">khớp</w>
+		<w pos="N">vai</w>
+	</s>
+	<s>
+		<w pos="Np">Xỏ</w>
+		<w pos="V">khuyên</w>
+		<w pos="E">ở</w>
+		<w pos="N">vành</w>
+		<w pos="N">tai</w>
+		<w pos=",">,</w>
+		<w pos="V">chảy</w>
+		<w pos="N">mủ</w>
+		<w pos=",">,</w>
+		<w pos="A">sưng</w>
+		<w pos="A">phồng</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="N">Đi ngoài</w>
+		<w pos="N">phân</w>
+		<w pos="A">đen</w>
+		<w pos=",">,</w>
+		<w pos="N">mùi</w>
+		<w pos="A">hôi</w>
+		<w pos=",">,</w>
+		<w pos="X">vì sao</w>
+	</s>
+	<s>
+		<w pos="V">Đi ngoài</w>
+		<w pos="R">ra</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">phân</w>
+		<w pos="N">mềm dẻo</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">nhầy</w>
+		<w pos=",">,</w>
+		<w pos="E">do</w>
+		<w pos="P">đâu</w>
+	</s>
+	<s>
+		<w pos="V">Mụn</w>
+		<w pos="A">nhiều</w>
+		<w pos="R">không</w>
+		<w pos="V">nên</w>
+		<w pos="V">ăn</w>
+		<w pos="N">trái cây</w>
+	</s>
+	<s>
+		<w pos="V">Chóng mặt</w>
+		<w pos=",">,</w>
+		<w pos="V">mất</w>
+		<w pos="N">thăng bằng</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">khỏi</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Phương pháp</w>
+		<w pos="V">giảm</w>
+		<w pos="N">cân</w>
+		<w pos="A">an toàn</w>
+		<w pos="E">cho</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="N">cuộc</w>
+		<w pos="N">tình</w>
+		<w pos="A">đầu tiên</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="N">sở</w>
+		<w pos="C">nên</w>
+		<w pos="V">cộc cằn</w>
+		<w pos="CC">và</w>
+		<w pos="V">cuồng</w>
+		<w pos="N">ghen</w>
+	</s>
+	<s>
+		<w pos="N">Vùng</w>
+		<w pos="N">mắt</w>
+		<w pos="A">khô</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="A">đỏ</w>
+		<w pos="CC">và</w>
+		<w pos="A">bỏng</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="A">Đau đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">choáng</w>
+		<w pos="V">kèm</w>
+		<w pos="A">sưng</w>
+		<w pos="E">sau</w>
+		<w pos="N">va đập</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="N">thủy đậu</w>
+		<w pos=",">,</w>
+		<w pos="V">làm</w>
+		<w pos="N">cách</w>
+		<w pos="P">nào</w>
+		<w pos="A">nhanh</w>
+		<w pos="V">khỏi</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="N">biếng</w>
+		<w pos="V">ăn</w>
+		<w pos=",">,</w>
+		<w pos="V">đi tiêu</w>
+		<w pos="R">còn</w>
+		<w pos="N">hạt</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">men</w>
+		<w pos="N">vi sinh</w>
+		<w pos="P">nào</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">trị</w>
+		<w pos="N">ho</w>
+		<w pos="Np">Neo-codein</w>
+		<w pos="V">làm bé</w>
+		<w pos="R">không</w>
+		<w pos="N">đi đại tiện</w>
+	</s>
+	<s>
+		<w pos="N">Sữa</w>
+		<w pos="V">hỗ trợ</w>
+		<w pos="N">dinh dưỡng</w>
+		<w pos="E">cho</w>
+		<w pos="N">trẻ</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="P">bao nhiêu</w>
+		<w pos="N">lần</w>
+		<w pos="M">một</w>
+		<w pos="N">ngày</w>
+	</s>
+	<s>
+		<w pos="N">Mủ</w>
+		<w pos="A">xanh</w>
+		<w pos="E">ở</w>
+		<w pos="N">đầu</w>
+		<w pos="N">dương vật</w>
+		<w pos=",">,</w>
+		<w pos="V">tiểu</w>
+		<w pos="R">ra</w>
+		<w pos="N">máu</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="V">Sốt</w>
+		<w pos=",">,</w>
+		<w pos="V">mệt mỏi</w>
+		<w pos=",">,</w>
+		<w pos="V">ớn</w>
+		<w pos="A">lạnh</w>
+		<w pos="E">sau</w>
+		<w pos="V">tiêm</w>
+		<w pos="N">ngừa</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">mẹ</w>
+		<w pos="CC">và</w>
+		<w pos="N">bé</w>
+	</s>
+	<s>
+		<w pos="V">Gãy</w>
+		<w pos="N">mâm</w>
+		<w pos="N">chày</w>
+		<w pos=",">,</w>
+		<w pos="N">bao lâu</w>
+		<w pos="R">mới</w>
+		<w pos="V">được</w>
+		<w pos="V">vận động</w>
+	</s>
+	<s>
+		<w pos="P">Vì sao</w>
+		<w pos="R">đã</w>
+		<w pos="V">cắt</w>
+		<w pos="N">amidan</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">khô</w>
+		<w pos="CC">và</w>
+		<w pos="A">rát</w>
+		<w pos="N">họng</w>
+	</s>
+	<s>
+		<w pos="E">Qua</w>
+		<w pos="N">tuổi</w>
+		<w pos="A">dậy thì</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">tăng trưởng</w>
+		<w pos="N">chiều cao</w>
+	</s>
+	<s>
+		<w pos="R">Chưa</w>
+		<w pos="V">xuất hiện</w>
+		<w pos="N">kinh nguyệt</w>
+		<w pos=",">,</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos="A">có mang</w>
+		<w pos="N">thai</w>
+	</s>
+	<s>
+		<w pos="C">Hay</w>
+		<w pos="V">lo lắng</w>
+		<w pos=",">,</w>
+		<w pos="V">giao tiếp</w>
+		<w pos="A">kém</w>
+		<w pos=",">,</w>
+		<w pos="A">nhút nhát</w>
+		<w pos=",">,</w>
+		<w pos="Np">BS</w>
+		<w pos="V">giúp</w>
+		<w pos="N">cháu</w>
+		<w pos="E">với</w>
+	</s>
+	<s>
+		<w pos="V">Rụng</w>
+		<w pos="N">tóc</w>
+		<w pos=",">,</w>
+		<w pos="V">sụt</w>
+		<w pos="N">cân</w>
+		<w pos="V">kèm</w>
+		<w pos="N">tay chân</w>
+		<w pos="A">tê</w>
+		<w pos="A">mỏi</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Bị</w>
+		<w pos="V">cảm</w>
+		<w pos="N">khi</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+		<w pos="M">3</w>
+		<w pos="N">tháng</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">được</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">gia truyền</w>
+	</s>
+	<s>
+		<w pos="V">Chảy máu</w>
+		<w pos="N">sau</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+		<w pos="E">do</w>
+		<w pos="N">mụn</w>
+		<w pos="A">cóc</w>
+		<w pos="N">sinh dục</w>
+	</s>
+	<s>
+		<w pos="N">Vết</w>
+		<w pos="A">loét</w>
+		<w pos="E">ở</w>
+		<w pos="N">dương vật</w>
+		<w pos=",">,</w>
+		<w pos="N">mùi</w>
+		<w pos="A">hôi</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">bôi</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="N">Em</w>
+		<w pos="V">bị</w>
+		<w pos="V">chắp</w>
+		<w pos="N">mắt</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">sử dụng</w>
+		<w pos="N">kính</w>
+		<w pos="V">áp</w>
+		<w pos="N">tròng</w>
+	</s>
+	<s>
+		<w pos="V">Dùng</w>
+		<w pos="A">dầu gội</w>
+		<w pos="E">của</w>
+		<w pos="Np">Nhật</w>
+		<w pos="V">có</w>
+		<w pos="V">giúp</w>
+		<w pos="N">kích thích</w>
+		<w pos="V">mọc</w>
+		<w pos="N">tóc</w>
+	</s>
+	<s>
+		<w pos="N">Dị ứng</w>
+		<w pos="N">mỹ phẩm</w>
+		<w pos="V">gây</w>
+		<w pos="A">sưng</w>
+		<w pos="N">mặt</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">mụn nhọt</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">hết</w>
+	</s>
+	<s>
+		<w pos="V">Nứt</w>
+		<w pos="N">đầu</w>
+		<w pos="N">ti</w>
+		<w pos="V">có</w>
+		<w pos="V">đáng</w>
+		<w pos="V">lo</w>
+	</s>
+	<s>
+		<w pos="V">Thiếu</w>
+		<w pos="N">testosterone</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">dùng</w>
+		<w pos="N">sâm</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="CC">và</w>
+		<w pos="N">cách</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">mụn</w>
+		<w pos="N">mủ</w>
+		<w pos="E">trong</w>
+		<w pos="N">mũi</w>
+	</s>
+	<s>
+		<w pos="R">Mới</w>
+		<w pos="V">khỏi</w>
+		<w pos="N">quai bị</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="V">cần</w>
+		<w pos="V">kiêng</w>
+		<w pos=""">"</w>
+		<w pos="V">yêu</w>
+		<w pos=""">"</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">chấm</w>
+		<w pos="N">li ti</w>
+		<w pos="E">ở</w>
+		<w pos="N">đùi</w>
+		<w pos="CC">và</w>
+		<w pos="N">chân</w>
+		<w pos=",">,</w>
+		<w pos="N">con</w>
+		<w pos="V">bị</w>
+		<w pos="P">sao</w>
+		<w pos="T">vậy</w>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+		<w pos=",">,</w>
+		<w pos="N">viêm</w>
+		<w pos="Np">VA</w>
+		<w pos="V">là</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="C">Hay</w>
+		<w pos="N">nhảy mũi</w>
+		<w pos=",">,</w>
+		<w pos="V">ớn</w>
+		<w pos="A">lạnh</w>
+		<w pos="N">xương sống</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="A">sơ sinh</w>
+		<w pos="C">hay</w>
+		<w pos="V">ọe</w>
+		<w pos=",">,</w>
+		<w pos="V">ọc</w>
+		<w pos="N">sữa</w>
+		<w pos="V">ra</w>
+		<w pos="N">mũi</w>
+		<w pos="CC">và</w>
+		<w pos="N">miệng</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="A">âm đạo</w>
+		<w pos="N">khi</w>
+		<w pos="V">mang</w>
+		<w pos="N">thai</w>
+		<w pos=",">,</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">đặt</w>
+		<w pos="V">bị</w>
+		<w pos="V">ngứa</w>
+		<w pos=",">,</w>
+		<w pos="V">phải</w>
+		<w pos="X">làm sao</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">sốt</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">lần</w>
+		<w pos="E">trong</w>
+		<w pos="N">tháng</w>
+		<w pos="E">do</w>
+		<w pos="N">viêm</w>
+		<w pos="N">mũi</w>
+		<w pos="N">họng</w>
+		<w pos="V">gây</w>
+		<w pos="R">ra</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">bị</w>
+		<w pos="A">sưng</w>
+		<w pos="V">mang tai</w>
+		<w pos=",">,</w>
+		<w pos="V">tái phát</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">lần</w>
+		<w pos=",">,</w>
+		<w pos="N">mẹ</w>
+		<w pos="V">nên</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="V">Trào</w>
+		<w pos="A">ngược</w>
+		<w pos="N">dạ dày</w>
+		<w pos="A">thực quản</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="Np">Phosphalugel</w>
+	</s>
+	<s>
+		<w pos="V">Uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="V">tránh</w>
+		<w pos="N">thai</w>
+		<w pos="R">không</w>
+		<w pos="A">đúng</w>
+		<w pos="N">giờ</w>
+		<w pos="V">có</w>
+		<w pos="V">làm</w>
+		<w pos="V">giảm</w>
+		<w pos="N">chất lượng</w>
+	</s>
+	<s>
+		<w pos="N">Lao phổi</w>
+		<w pos="A">bội nhiễm</w>
+		<w pos=",">,</w>
+		<w pos="X">làm sao</w>
+		<w pos="V">hết</w>
+		<w pos="N">đàm</w>
+	</s>
+	<s>
+		<w pos="N">Móng</w>
+		<w pos="N">chân tay</w>
+		<w pos="A">yếu</w>
+		<w pos=",">,</w>
+		<w pos="N">tóc</w>
+		<w pos="V">rụng</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="Np">Biotin</w>
+	</s>
+	<s>
+		<w pos="N">Ngứa</w>
+		<w pos="A">rát</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">nốt</w>
+		<w pos="C">như</w>
+		<w pos="N">mụn</w>
+		<w pos="E">ở</w>
+		<w pos="N">vùng</w>
+		<w pos="N">nách</w>
+	</s>
+	<s>
+		<w pos="N">Bụng</w>
+		<w pos="A">sưng</w>
+		<w pos="A">to</w>
+		<w pos=",">,</w>
+		<w pos="A">cứng</w>
+		<w pos="V">kèm</w>
+		<w pos="V">đau</w>
+		<w pos=",">,</w>
+		<w pos="V">biến chứng</w>
+		<w pos="N">sau</w>
+		<w pos="V">mổ</w>
+		<w pos="N">nội soi</w>
+		<w pos="V">ruột thừa</w>
+	</s>
+	<s>
+		<w pos=""">"</w>
+		<w pos="N">Xì</w>
+		<w pos="N">hơi</w>
+		<w pos=""">"</w>
+		<w pos="A">nhiều</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="V">ăn uống</w>
+		<w pos="CC">và</w>
+		<w pos="V">dùng</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Vết thương</w>
+		<w pos="E">ở</w>
+		<w pos="N">đầu gối</w>
+		<w pos="V">chảy</w>
+		<w pos="N">nước</w>
+		<w pos=",">,</w>
+		<w pos="A">rét</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="N">Mèo</w>
+		<w pos="V">cắn</w>
+		<w pos="E">ở</w>
+		<w pos="N">tay</w>
+		<w pos="A">hơn</w>
+		<w pos="M">1</w>
+		<w pos="N">tuần</w>
+		<w pos=",">,</w>
+		<w pos="V">chích</w>
+		<w pos="N">ngừa</w>
+		<w pos="V">có</w>
+		<w pos="A">kịp</w>
+		<w pos="R">không</w>
+	</s>
+	<s>
+		<w pos="N">Xơ gan</w>
+		<w pos="V">bị</w>
+		<w pos="V">vỡ</w>
+		<w pos="N">tĩnh mạch</w>
+		<w pos="V">thực quản</w>
+		<w pos="V">có</w>
+		<w pos="V">chữa</w>
+		<w pos="V">khỏi</w>
+	</s>
+	<s>
+		<w pos="N">Nguyên nhân</w>
+		<w pos="V">gây</w>
+		<w pos="V">đi cầu</w>
+		<w pos="N">phân</w>
+		<w pos="A">đen</w>
+	</s>
+	<s>
+		<w pos="Np">Giun</w>
+		<w pos="V">bò</w>
+		<w pos="R">ra</w>
+		<w pos="E">từ</w>
+		<w pos="N">hậu môn</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">sức khỏe</w>
+	</s>
+	<s>
+		<w pos="V">Tiêm</w>
+		<w pos="M">2</w>
+		<w pos="Nc">loại</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="N">ngừa</w>
+		<w pos="A">dại</w>
+		<w pos="A">khác nhau</w>
+		<w pos="V">có</w>
+		<w pos="V">đạt</w>
+		<w pos="N">hiệu quả</w>
+	</s>
+	<s>
+		<w pos="Np">BS</w>
+		<w pos="I">ơi</w>
+		<w pos=",">,</w>
+		<w pos="V">xem</w>
+		<w pos="V">giúp</w>
+		<w pos="N">em</w>
+		<w pos="N">kết quả</w>
+		<w pos="V">siêu âm</w>
+		<w pos="N">tim</w>
+		<w pos="V">thai nhi</w>
+	</s>
+	<s>
+		<w pos="V">Chóng mặt</w>
+		<w pos="L">mỗi</w>
+		<w pos="N">khi</w>
+		<w pos="V">tập trung</w>
+		<w pos="E">vì</w>
+		<w pos="V">thiếu</w>
+		<w pos="N">máu</w>
+		<w pos="N">não</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">em</w>
+		<w pos="A">đau đầu</w>
+		<w pos="C">mà</w>
+		<w pos="Np">BS</w>
+		<w pos="V">cho</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">suntab</w>
+		<w pos="V">trị</w>
+		<w pos="N">bệnh</w>
+		<w pos="N">gout</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ con</w>
+		<w pos="C">hay</w>
+		<w pos="V">cười</w>
+		<w pos="X">một mình</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="V">có</w>
+		<w pos="A">nghiêm trọng</w>
+	</s>
+	<s>
+		<w pos="R">Mới</w>
+		<w pos="V">bị</w>
+		<w pos="N">thủy đậu</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">lưỡi</w>
+		<w pos=",">,</w>
+		<w pos="V">nổi</w>
+		<w pos="N">hạt</w>
+		<w pos="A">mềm</w>
+		<w pos="N">màu</w>
+		<w pos="A">đỏ</w>
+		<w pos=",">,</w>
+		<w pos="N">dấu hiệu</w>
+		<w pos="N">bệnh</w>
+		<w pos="A">lao phổi</w>
+	</s>
+	<s>
+		<w pos="R">Nổi</w>
+		<w pos="V">hạch</w>
+		<w pos="N">cổ</w>
+		<w pos=",">,</w>
+		<w pos="V">uống</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+		<w pos=",">,</w>
+		<w pos="C">nên</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Thận</w>
+		<w pos="V">lạc</w>
+		<w pos="N">chỗ</w>
+		<w pos="N">hình</w>
+		<w pos="N">móng</w>
+		<w pos="N">ngựa</w>
+		<w pos="V">có</w>
+		<w pos="N">ảnh hưởng</w>
+		<w pos="N">chức năng</w>
+		<w pos="V">sinh sản</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">dây thần kinh</w>
+		<w pos="N">tọa</w>
+		<w pos="V">có</w>
+		<w pos="V">được</w>
+		<w pos="N">tập thể</w>
+		<w pos="N">hình</w>
+		<w pos="CC">và</w>
+		<w pos="V">chạy</w>
+		<w pos="N">bộ</w>
+	</s>
+	<s>
+		<w pos="N">Đau nhức</w>
+		<w pos="V">răng hàm</w>
+		<w pos="M">mỗi</w>
+		<w pos="N">khi</w>
+		<w pos="V">ăn</w>
+		<w pos="N">đồ</w>
+		<w pos="A">cứng</w>
+	</s>
+	<s>
+		<w pos="V">Tiêm</w>
+		<w pos="N">ngừa</w>
+		<w pos="Np">HPV</w>
+		<w pos="V">có</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="R">lên</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="V">ngừa</w>
+		<w pos="Np">HBV</w>
+	</s>
+	<s>
+		<w pos="N">Xương</w>
+		<w pos="V">vỡ</w>
+		<w pos="V">làm</w>
+		<w pos="A">nhiều</w>
+		<w pos="N">mảnh</w>
+		<w pos=",">,</w>
+		<w pos="N">chân</w>
+		<w pos="A">tê</w>
+		<w pos="CC">và</w>
+		<w pos="A">sưng</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="X">làm gì</w>
+	</s>
+	<s>
+		<w pos="N">Thận</w>
+		<w pos="N">đa</w>
+		<w pos="N">nang</w>
+		<w pos="V">là</w>
+		<w pos="P">gì</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="E">Sau</w>
+		<w pos="V">hiến</w>
+		<w pos="N">máu</w>
+		<w pos="P">bao lâu</w>
+		<w pos="R">được</w>
+		<w pos="V">hiến</w>
+		<w pos="N">tiểu cầu</w>
+	</s>
+	<s>
+		<w pos="V">Ăn</w>
+		<w pos="N">chua</w>
+		<w pos="A">sớm</w>
+		<w pos="E">sau</w>
+		<w pos="V">sinh</w>
+		<w pos="R">sẽ</w>
+		<w pos="R">không</w>
+		<w pos="V">kiểm soát</w>
+		<w pos="N">được việc</w>
+		<w pos="V">đi tiểu</w>
+	</s>
+	<s>
+		<w pos="N">Viêm</w>
+		<w pos="N">gan</w>
+		<w pos="V">siêu vi</w>
+		<w pos="N">B</w>
+		<w pos="A">mạn tính</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="R">được</w>
+		<w pos="V">chích</w>
+		<w pos="V">ngừa</w>
+		<w pos="N">vắc</w>
+		<w pos="V">xin</w>
+		<w pos="V">sởi</w>
+		<w pos="-">-</w>
+		<w pos="Np">Rubella</w>
+	</s>
+	<s>
+		<w pos="V">Sinh hoạt</w>
+		<w pos="A">chung</w>
+		<w pos="E">với</w>
+		<w pos="N">người</w>
+		<w pos="V">nhiễm</w>
+		<w pos="Np">HIV</w>
+		<w pos=",">,</w>
+		<w pos="V">cần</w>
+		<w pos="V">lưu ý</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="N">Dị ứng</w>
+		<w pos="N">toàn thân</w>
+		<w pos="E">do</w>
+		<w pos="V">ăn</w>
+		<w pos="N">gà</w>
+		<w pos="V">rán</w>
+		<w pos=",">,</w>
+		<w pos="N">hải sản</w>
+		<w pos="C">hay</w>
+		<w pos="N">thuốc</w>
+		<w pos="N">tiffi</w>
+		<w pos=",">,</w>
+		<w pos="N">amefle</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="N">em</w>
+		<w pos="V">sống</w>
+		<w pos="A">lạnh</w>
+		<w pos="A">mạnh</w>
+		<w pos="C">nhưng</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">dương tính</w>
+		<w pos="E">với</w>
+		<w pos="Np">HIV</w>
+	</s>
+	<s>
+		<w pos="V">Phù</w>
+		<w pos="N">mặt</w>
+		<w pos=",">,</w>
+		<w pos="N">mắt</w>
+		<w pos="A">thâm</w>
+		<w pos=",">,</w>
+		<w pos="N">da</w>
+		<w pos="A">xanh xao</w>
+		<w pos="E">do</w>
+		<w pos="V">thức</w>
+		<w pos="N">khuya</w>
+	</s>
+	<s>
+		<w pos="V">Nôn</w>
+		<w pos="V">ói</w>
+		<w pos=",">,</w>
+		<w pos="V">đau đầu</w>
+		<w pos="N">sau</w>
+		<w pos="V">mổ</w>
+		<w pos="V">bọng</w>
+		<w pos="N">mắt</w>
+	</s>
+	<s>
+		<w pos="X">Vì sao</w>
+		<w pos="E">trong</w>
+		<w pos="N">kỳ</w>
+		<w pos="V">kinh nguyệt</w>
+		<w pos="R">không</w>
+		<w pos="V">được</w>
+		<w pos="V">hiến</w>
+		<w pos="N">máu</w>
+	</s>
+	<s>
+		<w pos="N">Thuốc</w>
+		<w pos="V">điều trị</w>
+		<w pos="N">viêm</w>
+		<w pos="N">dạ dày</w>
+		<w pos="V">có</w>
+		<w pos="Np">Hp</w>
+		<w pos="V">gây</w>
+		<w pos="V">ảnh hưởng</w>
+		<w pos="N">thai nhi</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="V">bị</w>
+		<w pos="V">chàm</w>
+		<w pos="N">sữa</w>
+		<w pos=",">,</w>
+		<w pos="V">điều trị</w>
+		<w pos="P">thế nào</w>
+	</s>
+	<s>
+		<w pos="A">Trẻ</w>
+		<w pos="V">hụt</w>
+		<w pos="R">hơi</w>
+		<w pos="N">khi</w>
+		<w pos="V">ngủ</w>
+		<w pos=",">,</w>
+		<w pos="N">bệnh</w>
+		<w pos="P">gì</w>
+	</s>
+	<s>
+		<w pos="V">Lo lắng</w>
+		<w pos=",">,</w>
+		<w pos="V">suy nghĩ</w>
+		<w pos="N">tiêu cực</w>
+		<w pos="E">ở</w>
+		<w pos="N">độ</w>
+		<w pos="N">tuổi</w>
+		<w pos="A">dậy thì</w>
+	</s>
+	<s>
+		<w pos="N">Bé</w>
+		<w pos="M">10</w>
+		<w pos="N">ngày</w>
+		<w pos="R">vẫn</w>
+		<w pos="R">chưa</w>
+		<w pos="V">đi ngoài</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="A">bất thường</w>
+	</s>
+	<s>
+		<w pos="C">Hay</w>
+		<w pos="V">chạy</w>
+		<w pos="V">nhảy</w>
+		<w pos=",">,</w>
+		<w pos="R">chưa</w>
+		<w pos="V">biết</w>
+		<w pos="V">nói</w>
+		<w pos=",">,</w>
+		<w pos="N">em</w>
+		<w pos="V">sợ</w>
+		<w pos="N">bé</w>
+		<w pos="V">bị</w>
+		<w pos="V">tăng</w>
+		<w pos="N">động</w>
+	</s>
+	<s>
+		<w pos="V">Đau</w>
+		<w pos="N">mắt</w>
+		<w pos="A">đỏ</w>
+		<w pos="N">bên</w>
+		<w pos="A">phải</w>
+		<w pos=",">,</w>
+		<w pos="A">nhỏ</w>
+		<w pos="N">thuốc</w>
+		<w pos="R">không</w>
+		<w pos="V">hết</w>
+		<w pos=",">,</w>
+		<w pos="Np">AloBacsi</w>
+		<w pos="I">ơi</w>
+	</s>
+	<s>
+		<w pos="N">TS</w>
+		<w pos="Np">Phan Minh Liêm</w>
+		<w pos=":">:</w>
+		<w pos="Np">Tỏi</w>
+		<w pos="CC">và</w>
+		<w pos="N">tỏi</w>
+		<w pos="A">đen</w>
+		<w pos="V">có</w>
+		<w pos="N">tác dụng</w>
+		<w pos="P">thế nào</w>
+		<w pos="E">trong</w>
+		<w pos="N">phòng ngừa</w>
+		<w pos="N">ung thư</w>
+	</s>
+	<s>
+		<w pos="Np">Dùng Acnotin</w>
+		<w pos="M">10</w>
+		<w pos="V">gây</w>
+		<w pos="V">nứt</w>
+		<w pos="N">môi</w>
+		<w pos=",">,</w>
+		<w pos="V">chảy máu</w>
+		<w pos=",">,</w>
+		<w pos="V">có</w>
+		<w pos="C">nên</w>
+		<w pos="V">ngừng</w>
+		<w pos="N">thuốc</w>
+	</s>
+	<s>
+		<w pos="N">Mẹ</w>
+		<w pos="N">em</w>
+		<w pos="R">cứ</w>
+		<w pos="V">chợp</w>
+		<w pos="N">mắt</w>
+		<w pos="V">là</w>
+		<w pos=""">"</w>
+		<w pos="V">rên</w>
+		<w pos="A">hừ hừ</w>
+		<w pos=""">"</w>
+		<w pos="E">sau</w>
+		<w pos="N">tai biến</w>
+		<w pos="A">nhẹ</w>
+	</s>
+	<s>
+		<w pos="V">Phẫu thuật</w>
+		<w pos="V">thắng</w>
+		<w pos="N">lưỡi</w>
+		<w pos="V">có</w>
+		<w pos="N">nguy hiểm</w>
+	</s>
+	<s>
+		<w pos="R">Đã</w>
+		<w pos="V">chích</w>
+		<w pos="N">ngừa</w>
+		<w pos="Np">Rubella</w>
+		<w pos=",">,</w>
+		<w pos="V">xét nghiệm</w>
+		<w pos="N">máu</w>
+		<w pos="R">vẫn</w>
+		<w pos="A">dương tính</w>
+	</s>
+	<s>
+		<w pos="A">Nặng</w>
+		<w pos="N">đầu</w>
+		<w pos=",">,</w>
+		<w pos="A">choáng váng</w>
+		<w pos="E">do</w>
+		<w pos="V">thoái hóa</w>
+		<w pos="N">đốt sống</w>
+		<w pos="A">cổ</w>
+	</s>
+	<s>
+		<w pos="N">Hội chứng</w>
+		<w pos="V">down</w>
+		<w pos="R">có thể</w>
+		<w pos="V">chữa</w>
+		<w pos="R">khỏi</w>
+	</s>
+</doc>
